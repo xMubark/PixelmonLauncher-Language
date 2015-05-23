@@ -12,7 +12,7 @@ label.installsuccess=¡%s ha sido instalado con éxito!
 label.runprofile=Ejecutar %s
 label.installfail=¡%s no ha sido instalado con éxito!
 label.minecraftoutput=Registro de Minecraft
-label.minecraftoutput.small=Ver
+label.minecraftoutput.small=Ver como va
 label.selectjava=Instalación de Java
 label.selectjava.small=Se necesita para jugar minecraft
 label.settings=Ajustes
@@ -62,7 +62,7 @@ checkbox.openoutputdialog=Mantener el registro abierto después de salir de Mine
 checkbox.forcereinstall=Reinstalar los ficheros después de instalar
 
 button.logout=Desconectarse
-button.browse=Navegar
+button.browse=Ver
 button.continue=Continuar
 button.close=Cerrar
 button.cancel=Cancelar
