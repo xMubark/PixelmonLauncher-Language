@@ -41,8 +41,8 @@ label.dragdropforgedefined=¡La versión requerida de Forge no está instalada. 
 label.webpage=Página Web:
 label.authenticating=Autentificando
 label.loggingplayer=Conectando a %s
-label.hellothere=Hola!
-label.logindetails=Por favor conectate con tu cuenta de Minecraft.
+label.hellothere=Hola!!
+label.logindetails=Por favor autentifica tu cuenta de Minecraft.
 label.emailusername=Email/Nombre de Usuario
 label.password=Contraseña
 
