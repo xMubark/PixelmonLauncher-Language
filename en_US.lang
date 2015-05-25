@@ -1,3 +1,7 @@
+language.name=English
+language.region=US
+language.code=en_US
+
 label.minecraft=Minecraft
 label.pixelmon=Pixelmon
 label.forge=Forge
