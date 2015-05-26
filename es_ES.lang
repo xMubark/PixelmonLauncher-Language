@@ -1,3 +1,7 @@
+language.name=Español
+language.region=ES
+language.code=es_ES
+
 label.minecraft=Minecraft
 label.pixelmon=Pixelmon
 label.forge=Forge

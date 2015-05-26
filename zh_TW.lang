@@ -1,3 +1,7 @@
+language.name=Chinese Traditional
+language.region=TW
+language.code=zh_TW
+
 label.minecraft=Minecraft
 label.pixelmon=Pixelmon
 label.forge=Forge

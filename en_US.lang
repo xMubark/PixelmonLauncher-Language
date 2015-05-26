@@ -49,6 +49,7 @@ label.hellothere=Hello there.
 label.logindetails=Please authenticate your Minecraft account.
 label.emailusername=Email/Username
 label.password=Password
+label.chooselanguage=Choose your language
 
 messagebox.installfailed=Installation failed.
 messagebox.minecraftdownloadfailed=Cannot download minecraft.jar!

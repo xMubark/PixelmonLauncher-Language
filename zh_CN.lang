@@ -1,3 +1,7 @@
+language.name=Chinese
+language.region=CN
+language.code=zh_CN
+
 label.minecraft=Minecraft
 label.pixelmon=Pixelmon
 label.forge=Forge
