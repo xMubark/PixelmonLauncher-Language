@@ -31,8 +31,8 @@ label.height=Altura
 label.additionalargs=Argumentos adicionales
 label.profileeditor=Editor de Perfil
 label.profileeditor.small=Gestiona tus perfiles.
-label.nopixelmoninstalls=No se encuentra instaladores de Pixelmon.
-label.noforgeinstalls=No se encuentra instaladores de Forge.
+label.nopixelmoninstalls=No se encuentra Pixelmon instalado.
+label.noforgeinstalls=No se encuentra Forge instalado.
 label.dragdropothermods=¡Arrastra y suelta otros Mods aquí!
 label.dragdroppixelmon=¡Para añadir una nueva versión de Pixelmon, arrastra y suelta Pixelmon universal (.jar) aquí!
 label.dragdropforge=¡Para instalar Forge, arrastra y suelta el instalador de Forge (.jar) aquí!
@@ -49,6 +49,7 @@ label.hellothere=Hola!!
 label.logindetails=Por favor autentifica tu cuenta de Minecraft.
 label.emailusername=Email/Nombre de Usuario
 label.password=Contraseña
+label.chooselanguage=Elige tu idioma
 
 messagebox.installfailed=Instalación fallida.
 messagebox.minecraftdownloadfailed=¡No se pudo descargar minecraft.jar!
@@ -65,7 +66,7 @@ checkbox.customwindowsize=Usar tamaño de ventana personalizado
 checkbox.openoutputdialog=Mantener el registro abierto después de salir de Minecraft
 checkbox.forcereinstall=Reinstalar los ficheros después de instalar
 
-button.logout=Desconectarse
+button.logout=Cerrar
 button.browse=Ver
 button.continue=Continuar
 button.close=Cerrar
