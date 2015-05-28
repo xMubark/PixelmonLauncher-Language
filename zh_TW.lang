@@ -1,4 +1,4 @@
-language.name=Chinese Traditional
+language.name=繁體中文
 language.region=TW
 language.code=zh_TW
 
@@ -49,6 +49,7 @@ label.hellothere=你好！
 label.logindetails=請輸入你的Minecraft帳號
 label.emailusername=電子信箱/使用者名稱
 label.password=密碼
+label.chooselanguage=切換語言
 
 messagebox.installfailed=安裝失敗
 messagebox.minecraftdownloadfailed=無法下載Minecraft.jar！
