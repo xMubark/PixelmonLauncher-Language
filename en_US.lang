@@ -68,6 +68,7 @@ messagebox.pixelmonfail=Cannot add Pixelmon.
 messagebox.notforgemod=Not a valid forge mod!
 messagebox.unsupportedversion=Unsupported Pixelmon version!
 messagebox.invalidpixjar=Not a valid Pixelmon jar!
+messagebox.cantopenfile=Cannot open the file! 
 messagebox.pixelmonconfig.cantopen=Cannot open the config file!
 messagebox.pixelmonconfig.notexist=Config file does not exist.
 messagebox.pixelmonconfig.wrongformat=Config file is corrrupted.
