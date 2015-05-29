@@ -98,7 +98,7 @@ button.deleteprofile=Delete Profile
 button.installprofile=Install Profile
 button.browseformod=Browse for mods
 button.on=On
-button.Off=Off
+button.off=Off
 
 tooltip.newprofile=Create new profile
 tooltip.openfolder=Browse to profile folder
