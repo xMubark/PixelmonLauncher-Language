@@ -77,6 +77,7 @@ messagebox.pixelmonconfig.savedtitle=Configuration has been saved!
 messagebox.pixelmonconfig.savedmessage=Configuration has been saved and a backup file has been created in the same folder.
 messagebox.pixelmonconfig.failedtitle=Cannot save configuration!
 messagebox.pixelmonconfig.failedmessage=We cannot save your changes. Please try again later!
+messagebox.pixelmonconfig.notsupported=We do not support editing configurations of this Pixelmon version at the moment! You can still edit pixelmon.cfg file directly.
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
@@ -102,6 +103,7 @@ button.off=Off
 
 tooltip.newprofile=Create new profile
 tooltip.openfolder=Browse to profile folder
+tooltip.openfile=Open file
 tooltip.configureprofile=Configure profile
 tooltip.configurepixelmon=Configure Pixelmon
 tooltip.play=Play
@@ -123,3 +125,25 @@ install.mods=Installing Mods
 install.extractjar=Extracting Jar: %s
 install.download=Downloading %s
 install.validate=Validating %s
+
+configs.pixelmon.categories.general.title=General Settings
+configs.pixelmon.categories.spawning.title=Spawning Settings
+configs.pixelmon.categories.spawning.description=Settings that control what Pokemon spawn and how many spawn
+
+configs.pixelmon.items.general.forceendedresult.title=Force-ended battle result
+configs.pixelmon.items.general.forceendedresult.description=What will happen if a battle is force-ended without a proper conclusion.
+configs.pixelmon.items.general.forceendedresult.values.0=A winner is determined based on the number of remaining Pokemon (with % HP as a tiebreaker).
+configs.pixelmon.items.general.forceendedresult.values.1=The battle is considered a draw.
+configs.pixelmon.items.general.forceendedresult.values.2=The battle is considered abnormally ended.
+configs.pixelmon.items.spawning.gen1.title=Spawn generation 1 Pokemons
+configs.pixelmon.items.spawning.gen1.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 1-151)
+configs.pixelmon.items.spawning.gen2.title=Spawn generation 2 Pokemons
+configs.pixelmon.items.spawning.gen2.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 152-251)
+configs.pixelmon.items.spawning.gen3.title=Spawn generation 3 Pokemons
+configs.pixelmon.items.spawning.gen3.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 252-386)
+configs.pixelmon.items.spawning.gen4.title=Spawn generation 4 Pokemons
+configs.pixelmon.items.spawning.gen4.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 387-493)
+configs.pixelmon.items.spawning.gen5.title=Spawn generation 5 Pokemons
+configs.pixelmon.items.spawning.gen5.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 494-649)
+configs.pixelmon.items.spawning.gen6.title=Spawn generation 6 Pokemons
+configs.pixelmon.items.spawning.gen6.description=Sets whether Generation 1 Pokemon will be spawned or not (Pokedex 650-719)
