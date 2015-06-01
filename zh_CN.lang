@@ -49,6 +49,7 @@ label.hellothere=您好！
 label.logindetails=请在这里登录您的Minecraft账户。
 label.emailusername=电子邮箱/用户名
 label.password=您的密码
+label.chooselanguage=选择你想要使用的语言
 
 messagebox.installfailed=安装失败
 messagebox.minecraftdownloadfailed=无法下载Minecraft核心文件
