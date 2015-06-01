@@ -88,7 +88,7 @@ checkbox.customwindowsize=Usar tamaño de ventana personalizado
 checkbox.openoutputdialog=Mantener el registro abierto después de salir de Minecraft
 checkbox.forcereinstall=Reinstalar los ficheros después de instalar
 
-button.logout=Cerrar
+button.logout=Salir
 button.browse=Ver
 button.continue=Continuar
 button.close=Cerrar
