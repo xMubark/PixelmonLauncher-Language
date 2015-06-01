@@ -80,6 +80,8 @@ messagebox.pixelmonconfig.savedmessage=Configuration has been saved and a backup
 messagebox.pixelmonconfig.failedtitle=Cannot save configuration!
 messagebox.pixelmonconfig.failedmessage=We cannot save your changes. Please try again later!
 messagebox.pixelmonconfig.notsupported=We do not support editing configurations of this Pixelmon version at the moment! You can still edit pixelmon.cfg file directly.
+messagebox.assetsindexerror=The assets index was invalid!
+messagebox.assetsdlerror=Could not download asset %s
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
