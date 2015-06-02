@@ -151,5 +151,5 @@ configs.pixelmon.items.spawning.gen5.title=Spawn Generation 5 Pokemon
 configs.pixelmon.items.spawning.gen5.description=Sets whether Generation 5 Pokemon will be spawned or not (Pokedex #494-649)
 configs.pixelmon.items.spawning.gen6.title=Spawn Generation 6 Pokemon
 configs.pixelmon.items.spawning.gen6.description=Sets whether Generation 6 Pokemon will be spawned or not (Pokedex #650-721)
-configs.pixelmon.items.spawning.dimensions.title=Spawn Dimensions
-configs.pixelmon.items.spawning.dimensions.description=Sets which dimensions Pokemon will spawn in (-1=nether, 0=main world, 1=end)
+configs.pixelmon.items.spawning.dimensions.title=Spawn dimensions
+configs.pixelmon.items.spawning.dimensions.description=Sets which dimensions Pokemon will spawn in (-1=Nether, 0=Overworld, 1=End)
