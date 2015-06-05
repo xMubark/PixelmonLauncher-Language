@@ -68,6 +68,7 @@ label.pixelmonconfig.subtitle=Configuration for your single player worlds
 label.languagemissing=Don't see your language here?  You can add a new language to our list by contributing over at:
 label.offline1=You are playing offline!
 label.offline2=Check your Internet connection, and restart the launcher to go online.
+label.experimentalswitch=Enable experimental features
 
 messagebox.installfailed=Installation failed.
 messagebox.minecraftdownloadfailed=Cannot download minecraft.jar!
