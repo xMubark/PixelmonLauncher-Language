@@ -68,6 +68,7 @@ label.pixelmonconfig.subtitle=Configuration for your single player worlds
 label.languagemissing=Don't see your language here?  You can add a new language to our list by contributing over at:
 label.offline1=You are playing offline!
 label.offline2=Check your Internet connection, and restart the launcher to go online.
+label.experimentalswitch=Enable experimental features 
 
 messagebox.installfailed=Installation failed.
 messagebox.minecraftdownloadfailed=Cannot download minecraft.jar!
@@ -83,6 +84,8 @@ messagebox.cantstart=Cannot start Pixelmon!
 messagebox.cantsave=Cannot save profile!
 messagebox.missinglibrary=Library %s is missing! Please press install to download it again.
 messagebox.missingforge=Forge is missing! Please drop the Forge installer into the profile editor or press install to download it again.\
+messagebox.incompatibleforge=Forge version incompatible with Pixelmon!
+messagebox.forgeadded=Forge is added.
 messagebox.invalidname=Invalid profile name! Please choose another one.
 messagebox.existingname=This profile name has already been used!
 messagebox.existingdirectory=The directory has already been used!\nPlease choose another name.
