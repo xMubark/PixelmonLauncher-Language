@@ -29,6 +29,8 @@ label.profilesettings=配置文件管理中心
 label.profilesettings.small=管理您的游戏配置文件。
 label.width=宽度
 label.height=高度
+label.minmemory=最小内存 (MB)
+label.maxmemory=最大内存 (MB)
 label.additionalargs=其他参数
 label.profileeditor=编辑配置文件
 label.profileeditor.small=管理你的配置文件。
@@ -71,6 +73,8 @@ label.offline2=检查您的互联网连接，并重新运行启动器连接网�
 label.experimentalswitch=启用实验性功能
 
 messagebox.installfailed=安装失败。
+messagebox.nojava=选择的JAVA路径无效！请重新安装JAVA并在此尝试。
+messagebox.nojavatitle=没有找到JAVA。
 messagebox.minecraftdownloadfailed=无法下载Minecraft核心文件
 messagebox.cannotdownload=无法下载 %s。
 messagebox.cannotfind=无法找到 %s。
@@ -100,6 +104,17 @@ messagebox.pixelmonconfig.failedmessage=我们无法保存您的改动。请稍�
 messagebox.pixelmonconfig.notsupported=我们不支持此版本的Pixelmon配置编辑！您可以尝试直接编辑pixelmon.cfg文件。
 messagebox.assetsindexerror=此资源是无效的！
 messagebox.assetsdlerror=无法下载资源 %s
+messagebox.settings.invalidsize=请输入有效数字来设置窗口的宽度和高度，或自定义窗口大小！
+messagebox.settings.sizetoosmall=窗口的宽度和高度不得小于20！
+messagebox.settings.invalidmemory=你的JAVA设置中内存参数不正确。已经将它重置为默认值。
+messagebox.settings.invalidtitle=无效的设置
+messagebox.settings.badjavaversion=您现在在一个64位系统上使用32位JAVA。请您选择64位版本以保证能分配使用更多的内存。
+messagebox.settings.badjavaversiontitle=损坏的JAVA版本
+messagebox.pixpack.invalidpack=无效的Pixpack包
+messagebox.pixpack.invalidsetup=安装文件损坏！
+messagebox.pixpack.wrongpixelmon=这个配置文件中存在一个错误的Pixelmon版本！
+
+
 
 checkbox.deletelocalfiles=删除本地文件
 checkbox.customwindowsize=自定义Minecraft窗体大小
@@ -122,6 +137,7 @@ button.installprofile=载入配置
 button.browseformod=浏览MODS
 button.on=打开
 button.off=关闭
+button.additem=添加物品
 
 tooltip.newprofile=创建新配置文件
 tooltip.openfolder=浏览配置文件夹
