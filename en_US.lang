@@ -138,6 +138,7 @@ button.installprofile=Install Profile
 button.browseformod=Browse for Mods
 button.on=On
 button.off=Off
+button.additem=Add item
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
