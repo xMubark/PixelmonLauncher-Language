@@ -85,6 +85,7 @@ messagebox.unsupportedversion=不兼容此版本的Pixelmon Mod(.jar)！
 messagebox.invalidpixjar=这不是一个正确的Pixelmon Mod文件(.jar)！
 messagebox.cantopenfile=无法打开此文件！
 messagebox.cantstart=无法启动Pixelmon！
+messagebox.insufficientmemory=您的计算机此刻没有足够的内存！请尝试去启动器设置较少的最大内存或关闭一些正在运行的程序来释放内存。
 messagebox.cantsave=无法保存配置文件！
 messagebox.missinglibrary=依赖资源库 %s 不存在！请尝试再次下载！
 messagebox.missingforge=Forge不存在！请把Forge拖入至此或按下“安装”以重新下载！
