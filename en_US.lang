@@ -71,6 +71,10 @@ label.languagemissing=Don't see your language here?  You can add a new language 
 label.offline1=You are playing offline!
 label.offline2=Check your Internet connection, and restart the launcher to go online.
 label.experimentalswitch=Enable experimental features 
+label.servers=Servers
+label.sideMods=Side Mods
+label.sideModsDescription=Click a side mod to add it to your profile.
+label.nosidemods=No Side-Mods available for this version of Pixelmon.
 
 messagebox.installfailed=Installation failed.
 messagebox.nojava=The chosen Java path is not valid! Please reinstall Java and try again.
@@ -124,6 +128,7 @@ checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
 checkbox.openoutputdialog=Keep output dialog open after Minecraft exits
 checkbox.forcereinstall=Reinstall all libraries next install
+checkbox.defaultPixelmonServers=Add default Pixelmon servers
 
 button.logout=Logout
 button.browse=Browse
@@ -142,6 +147,8 @@ button.browseformod=Browse for Mods
 button.on=On
 button.off=Off
 button.additem=Add Item
+button.browseServers=Browse Servers
+button.addsidemod=Add Official Side-Mod
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
