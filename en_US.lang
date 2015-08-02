@@ -100,6 +100,7 @@ messagebox.forgeadded=Forge is added.
 messagebox.invalidname=Invalid profile name! Please choose another one.
 messagebox.existingname=This profile name has already been used!
 messagebox.existingdirectory=The directory has already been used!\nPlease choose another name.
+messagebox.pixelmonnotselected=Please select a Pixelmon version first!
 messagebox.pixelmonconfig.cantopen=Cannot open the config file!
 messagebox.pixelmonconfig.notexist=Config file does not exist.
 messagebox.pixelmonconfig.wrongformat=Config file is corrrupted.
