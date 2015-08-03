@@ -19,7 +19,7 @@ label.installfail=¡%s no ha sido instalado con éxito!
 label.minecraftoutput=Registro de Minecraft
 label.minecraftoutput.small=Observa como va.
 label.selectjava=Instalación de Java
-label.selectjava.small=Se necesita para jugar a Minecraft.
+label.selectjava.small=Es necesario para jugar a Minecraft.
 label.settings=Ajustes
 label.launchersettings=Configura el lanzador
 label.volume=Volumen
@@ -71,6 +71,10 @@ label.languagemissing=¿No ves tu idioma?  Puedes añadir tu idioma a nuestra li
 label.offline1=¡Estas jugando offline!
 label.offline2=Revisa tu conexión a Internet, y reinicia el Lanzador para estar conectado.
 label.experimentalswitch=Activar características experimentales.
+label.servers=Servidores
+label.sideMods=Side-Mods
+label.sideModsDescription=Haz clic en un Side-Mod para añadirlo a tu perfil.
+label.nosidemods=No hay side-mods disponibles para esta versión de Pixelmon.
 
 messagebox.installfailed=Error en la instalación.
 messagebox.nojava=¡La ruta de acceso de Java no es válida! Por favor reinstala Java e intentalo de nuevo.
@@ -121,9 +125,10 @@ messagebox.pixpack.wrongmod=No se puede añadir el Mod.
 messagebox.pixpack.dropothermod=¡Por favor suelta el archivo %s!
 
 checkbox.deletelocalfiles=Eliminar archivos locales
-checkbox.customwindowsize=Usar tamaño de ventana personalizado
+checkbox.customwindowsize=Tamaño de ventana personalizado
 checkbox.openoutputdialog=Mantener el registro abierto después de salir de Minecraft
 checkbox.forcereinstall=Reinstalar los ficheros después de instalar
+checkbox.defaultPixelmonServers=Añadir servidores de Pixelmon por defecto
 
 button.logout=Salir
 button.browse=Buscar
@@ -142,6 +147,8 @@ button.browseformod=Ir a Mods
 button.on=Si
 button.off=No
 button.additem=Añadir
+button.browseServers=Buscar Servidores
+button.addsidemod=Añadir Side-Mod Oficial
 
 tooltip.newprofile=Crear nuevo perfil
 tooltip.openfolder=Ir a la carpeta de perfil
