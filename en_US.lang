@@ -72,9 +72,9 @@ label.offline1=You are playing offline!
 label.offline2=Check your Internet connection, and restart the launcher to go online.
 label.experimentalswitch=Enable experimental features 
 label.servers=Servers
-label.sideMods=Side Mods
-label.sideModsDescription=Click a side mod to add it to your profile.
-label.nosidemods=No Side-Mods available for this version of Pixelmon.
+label.sideMods=Side-Mods
+label.sideModsDescription=Click a side-mod to add it to your profile.
+label.nosidemods=No side-mods available for this version of Pixelmon.
 
 messagebox.installfailed=Installation failed.
 messagebox.nojava=The chosen Java path is not valid! Please reinstall Java and try again.
