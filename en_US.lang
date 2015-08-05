@@ -80,6 +80,7 @@ messagebox.installfailed=Installation failed.
 messagebox.nojava=The chosen Java path is not valid! Please reinstall Java and try again.
 messagebox.nojavatitle=Java not found.
 messagebox.minecraftdownloadfailed=Cannot download minecraft.jar!
+messagebox.pixelmondownloadfailed=Cannot download Pixelmon! %s
 messagebox.cannotdownload=Cannot download %s.
 messagebox.cannotextract=Cannot extract %s.
 messagebox.cannotfind=Cannot find %s.
