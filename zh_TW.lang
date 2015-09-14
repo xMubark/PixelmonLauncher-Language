@@ -206,6 +206,9 @@ configs.pixelmon.items.spawning.gen6.title=生成第六世代神奇寶貝
 configs.pixelmon.items.spawning.gen6.description=設定第六世代神奇寶貝是否生成(全國圖鑑#650~721)
 configs.pixelmon.items.spawning.dimensions.title=生成的維度
 configs.pixelmon.items.spawning.dimensions.description=設定神奇寶貝生成在哪個維度(-1=下界, 0=主世界, 1=末路之地)
+configs.pixelmon.items.spawning.dimensions.values.-1=下界
+configs.pixelmon.items.spawning.dimensions.values.0=主世界
+configs.pixelmon.items.spawning.dimensions.values.1=末路之地
 configs.pixelmon.items.spawning.legendary.title=生成傳說神奇寶貝
 configs.pixelmon.items.spawning.legendary.description=設定傳說神奇寶貝的生成(包括生成時出現的訊息)
 configs.pixelmon.items.spawning.legendaryrate.title=傳說神奇寶貝生成機率
