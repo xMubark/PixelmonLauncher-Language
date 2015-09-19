@@ -76,6 +76,8 @@ label.sideMods=Side-Mods
 label.sideModsDescription=Click a side-mod to add it to your profile.
 label.nosidemods=No side-mods available for this version of Pixelmon.
 
+messagebox.corruptedconfig=Corrupted configuration
+messagebox.corruptedsettings=Launcher settings is corrupted! We have reset all settings to their default values.
 messagebox.installfailed=Installation failed.
 messagebox.nojava=The chosen Java path is not valid! Please reinstall Java and try again.
 messagebox.nojavatitle=Java not found.
