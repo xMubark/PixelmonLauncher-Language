@@ -75,6 +75,12 @@ label.servers=Servers
 label.sideMods=Side-Mods
 label.sideModsDescription=Click a side-mod to add it to your profile.
 label.nosidemods=No side-mods available for this version of Pixelmon.
+label.errorreport.title=Error Report
+label.errorreport.launcher=You have just found an unexpected glicth in the launcher!
+label.errorreport.pixelmon=You have just found an unexpected glicth in Pixelmon!
+label.errorreport.additional=We would appreciate very much if you can give us some additional information, so that we can identify and fix the bug.
+label.errorreport.description=What were you doing at the time?
+label.errorreport.contact=Your Pixelmon forum username or email address
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings is corrupted! We have reset all settings to their default values.
@@ -127,6 +133,8 @@ messagebox.pixpack.wrongpixelmon=Wrong version of Pixelmon for this profile!
 messagebox.pixpack.wrongforge=Wrong version of Forge for this profile!
 messagebox.pixpack.wrongmod=Cannot add mod
 messagebox.pixpack.dropothermod=Please drop the file %s instead!
+messagebox.errorreport.copytitle=Copy error details
+messagebox.errorreport.copymessage=The error details have been copied to the Clipboard. You can use that to report the issue in our bug tracker.
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
@@ -153,6 +161,9 @@ button.off=Off
 button.additem=Add Item
 button.browseServers=Browse Servers
 button.addsidemod=Add Official Side-Mod
+button.errorreport.copy=Copy error details
+button.errorreport.send=Send report & restart
+button.errorreport.exit=Exit
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
