@@ -133,8 +133,15 @@ messagebox.pixpack.wrongpixelmon=Wrong version of Pixelmon for this profile!
 messagebox.pixpack.wrongforge=Wrong version of Forge for this profile!
 messagebox.pixpack.wrongmod=Cannot add mod
 messagebox.pixpack.dropothermod=Please drop the file %s instead!
+messagebox.errorreport.title=Error report
 messagebox.errorreport.copytitle=Copy error details
 messagebox.errorreport.copymessage=The error details have been copied to the Clipboard. You can use that to report the issue in our bug tracker.
+messagebox.errorreport.descriptionrequired=Please let us know more about what you were doing at the time of the crash!
+messagebox.errorreport.contactrequired=Please let us know your Pixemon forum username or email address!
+messagebox.errorreport.failedmessage=Sorry, we cannot send error report at the moment!
+messagebox.errorreport.blockedmessage=Sorry, we cannot send error report at the moment! Please try again tomorrow.
+messagebox.errorreport.duplicatedissue=It seems you have submitted a similar issue before. Are you sure that you want to submit again?
+messagebox.errorreport.successmessage=Thank you for reporting the issue.
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
