@@ -133,6 +133,7 @@ messagebox.pixpack.wrongpixelmon=Wrong version of Pixelmon for this profile!
 messagebox.pixpack.wrongforge=Wrong version of Forge for this profile!
 messagebox.pixpack.wrongmod=Cannot add mod
 messagebox.pixpack.dropothermod=Please drop the file %s instead!
+messagebox.pixpack.corruptedstyle=The custom style of this current Pixpack is corrupted!
 messagebox.errorreport.title=Error report
 messagebox.errorreport.copytitle=Copy error details
 messagebox.errorreport.copymessage=The error details have been copied to the Clipboard. You can use that to report the issue in our bug tracker.
