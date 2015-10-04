@@ -118,7 +118,7 @@ messagebox.pixelmonconfig.savedtitle=Configuration has been saved!
 messagebox.pixelmonconfig.savedmessage=Configuration has been saved and a backup file has been created in the same folder.
 messagebox.pixelmonconfig.failedtitle=Cannot save configuration!
 messagebox.pixelmonconfig.failedmessage=We cannot save your changes. Please try again later!
-messagebox.pixelmonconfig.notsupported=We do not support editing configurations of this Pixelmon version at the moment! You can still edit the pixelmon.cfg file directly.
+messagebox.pixelmonconfig.notsupported=We do not support editing configurations of this Pixelmon version at the moment! Do you want to open the %s file directly (using a text editor)?
 messagebox.assetsindexerror=The assets index was invalid!
 messagebox.assetsdlerror=Could not download asset %s.
 messagebox.settings.invalidsize=Please enter a valid number for window width and height or turn off custom window size!
@@ -145,6 +145,7 @@ messagebox.errorreport.duplicatedissue=It seems you have submitted a similar iss
 messagebox.errorreport.successmessage=Thank you for reporting the issue.
 messagebox.error.title=Pixelmon error
 messagebox.error.cannotopenlink=Sorry, we cannot open this link at the moment! Please use your browser and go to this address instead %s.
+messagebox.error.cannotopenfile=Sorry, we cannot open this file at the moment! Please use File Explorer and open %s.
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
