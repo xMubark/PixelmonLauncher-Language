@@ -31,6 +31,7 @@ label.width=Width
 label.height=Height
 label.minmemory=Minimum memory (MB)
 label.maxmemory=Maximum memory (MB)
+label.cannotextractmemory=Cannot extract from custom Java arguments
 label.additionalargs=Additional arguments
 label.profileeditor=Profile Editor
 label.profileeditor.small=Manage your profiles.
