@@ -35,6 +35,7 @@ label.cannotextractmemory=Cannot extract from custom Java arguments
 label.additionalargs=Additional arguments
 label.profileeditor=Profile Editor
 label.profileeditor.small=Manage your profiles.
+label.profileeditor.ignoreincompatibility=Don't warn me about incompatible sidemods
 label.nopixelmoninstalls=No Pixelmon installs found.
 label.noforgeinstalls=No Forge installs found.
 label.dragdropothermods=Drag and drop other mods here!
@@ -151,6 +152,10 @@ messagebox.errorreport.successmessage=Thank you for reporting the issue.
 messagebox.error.title=Pixelmon error
 messagebox.error.cannotopenlink=Sorry, we cannot open this link at the moment! Please use your browser and go to this address instead %s.
 messagebox.error.cannotopenfile=Sorry, we cannot open this file at the moment! Please use File Explorer and open %s.
+messagebox.incompatiblesidemods.title=Incompatible Sidemods
+messagebox.incompatiblesidemods.message=Some sidemods in this profile may not be compatible with current Pixelmon version!
+messagebox.incompatiblesidemods.ignore=Don't warn me again for this profile
+messagebox.incompatiblesidemods.continue=Continue
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
@@ -184,6 +189,8 @@ button.openarticle=Open article
 button.errorreport.copy=Copy error details & go to forum
 button.errorreport.sendandrestart=Send Report & Restart
 button.errorreport.send=Send Report
+button.ok=Ok
+button.cancel=Cancel
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
@@ -195,6 +202,7 @@ tooltip.install=Install
 tooltip.mute=Music
 tooltip.openoutputdialog=This keeps the output text from Minecraft open even after Minecraft has exited.
 tooltip.forcereinstall=This forces the launcher to re-download all the library dependencies the next time you play this profile.
+tooltip.incompatible=Incompatible
 
 menu.news=News
 menu.pixpacks=Pixpacks
