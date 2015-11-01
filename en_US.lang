@@ -86,6 +86,7 @@ label.errorreport.contact=Your Pixelmon forum username or email address
 label.errorreport.oldversion=You are playing an old version of Pixelmon. Please update to the latest version to get all bug fixes!
 label.errorreport.outofmemory=You did not allocate enough memory to play Pixelmon! Please go to launcher settings to check your maximum memory setting and custom Java arguments (advanced mode).
 label.errorreport.graphicerror=Your computer does not meet the graphic requirement of Minecraft, or you have not installed an appropriate graphic driver that support OpenGL!
+label.errorreport.runasadministrator=Please exit and try to run Pixelmon as administrator (right click Pixelmon and click on 'Run as administrator') or try to fix your Windows installation.
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
