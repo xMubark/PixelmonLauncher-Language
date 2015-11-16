@@ -195,7 +195,6 @@ button.errorreport.gotowiki=Visit 'Crash Reading 101' to learn about known issue
 button.errorreport.sendandrestart=Send Report & Restart
 button.errorreport.send=Send Report
 button.ok=Ok
-button.cancel=Cancel
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
