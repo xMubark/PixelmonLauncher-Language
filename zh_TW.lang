@@ -101,14 +101,12 @@ messagebox.invalidpixjar=不是一個有效的Pixelmon！
 messagebox.cantopenfile=無法打開文件！
 messagebox.cantstart=無法啟動Pixelmon！
 messagebox.insufficientmemory=您的電腦記憶體不足，請至設定區把記憶體內存設定為最大，或者關閉一些正在運作的程式來釋放記憶體。
-messagebox.cantsave=無法儲存檔案！
 messagebox.missinglibrary=函數庫%s遺失！請重新安裝下載。
 messagebox.missingforge=Forge遺失！請重新下載安裝檔。
 messagebox.incompatibleforge=這個Forge版本不兼容Pixelmon！
 messagebox.forgeadded=這個Forge已經加入了。
-messagebox.invalidname=無效的配置文件名稱！請選擇別的名稱。
-messagebox.existingname=這個配置文件名稱已被使用！
-messagebox.existingdirectory=該目錄已被使用！\n請選擇別的名稱。
+messagebox.profiles.cantsave=無法儲存檔案！
+messagebox.profiles.existingname=這個配置文件名稱已被使用！
 messagebox.pixelmonnotselected=請先選擇一個Pixelmon版本！
 messagebox.pixelmonconfig.cantopen=無法打開配置文件！
 messagebox.pixelmonconfig.notexist=配置文件不存在。
@@ -243,3 +241,8 @@ configs.pixelmon.items.afkhandler.active.title=啟用AFK處理器
 configs.pixelmon.items.afkhandler.active.description=設定AI介入控制對戰中暫離的玩家
 configs.pixelmon.items.afkhandler.activationtime.title=啟動時間
 configs.pixelmon.items.afkhandler.activationtime.description=設定何時讓AI控制暫離的玩家
+
+
+
+messagebox.invalidname=無效的配置文件名稱！請選擇別的名稱。
+messagebox.existingdirectory=該目錄已被使用！\n請選擇別的名稱。

@@ -93,14 +93,12 @@ messagebox.invalidpixjar=这不是一个正确的Pixelmon Mod文件(.jar)！
 messagebox.cantopenfile=无法打开此文件！
 messagebox.cantstart=无法启动Pixelmon！
 messagebox.insufficientmemory=您的计算机此刻没有足够的内存！请尝试去启动器设置较少的最大内存或关闭一些正在运行的程序来释放内存。
-messagebox.cantsave=无法保存配置文件！
 messagebox.missinglibrary=依赖资源库 %s 不存在！请尝试再次下载！
 messagebox.missingforge=Forge不存在！请把Forge拖入至此或按下“安装”以重新下载！
 messagebox.incompatibleforge=该版本的Forge无法兼容Pixelmon！
 messagebox.forgeadded=Forge已添加
-messagebox.invalidname=无效的配置文件名。请选择另一个
-messagebox.existingname=此配置文件名称已被使用！
-messagebox.existingdirectory=该目录已被使用！\n请选择另一个名称
+messagebox.profiles.cantsave=无法保存配置文件！
+messagebox.profiles.existingname=此配置文件名称已被使用！
 messagebox.pixelmonnotselected=请先选择一个Pixelmon版本！
 messagebox.pixelmonconfig.cantopen=无法打开配置文件！
 messagebox.pixelmonconfig.notexist=配置文件不存在
@@ -220,3 +218,6 @@ configs.pixelmon.items.afkhandler.active.description=设置AI介入控制对战�
 configs.pixelmon.items.afkhandler.activationtime.title=启动时间
 configs.pixelmon.items.afkhandler.activationtime.description=设置何时让AI控制暂离的玩家
 
+
+messagebox.invalidname=无效的配置文件名。请选择另一个
+messagebox.existingdirectory=该目录已被使用！\n请选择另一个名称
