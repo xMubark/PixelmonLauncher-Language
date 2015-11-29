@@ -1,4 +1,4 @@
-language.name=Danish
+language.name=Dansk
 language.region=DK
 language.code=da_DK
 
@@ -29,8 +29,8 @@ label.profilesettings=Profile indstillinger
 label.profilesettings.small=Opsætning af profil.
 label.width=Brede
 label.height=Højde
-label.minmemory=Minimum memory (MB)
-label.maxmemory=Maximum memory (MB)
+label.minmemory=Minimum hukkomelse (MB)
+label.maxmemory=Maximum hukkomelse (MB)
 label.cannotextractmemory=Cannot extract from custom Java arguments
 label.additionalargs=Additional arguments
 label.profileeditor=Profile Editor
