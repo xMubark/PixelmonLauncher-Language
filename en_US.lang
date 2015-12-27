@@ -36,6 +36,7 @@ label.additionalargs=Additional arguments
 label.profileeditor=Profile Editor
 label.profileeditor.small=Manage your profiles.
 label.profileeditor.ignoreincompatibility=Don't warn me about incompatible sidemods.
+label.profileeditor.addservers=Add default Pixelmon servers.
 label.nopixelmoninstalls=No Pixelmon installs found.
 label.noforgeinstalls=No Forge installs found.
 label.dragdropothermods=Drag and drop other mods here!
