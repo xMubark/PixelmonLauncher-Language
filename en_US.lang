@@ -211,6 +211,8 @@ tooltip.mute=Music
 tooltip.openoutputdialog=This keeps the output text from Minecraft open even after Minecraft has exited.
 tooltip.forcereinstall=This forces the launcher to re-download all the library dependencies the next time you play this profile.
 tooltip.incompatible=Incompatible
+tooltip.sharefacebook=Share to Facebook
+tooltip.sharetwitter=Share to Twitter
 
 menu.news=News
 menu.pixpacks=Pixpacks
