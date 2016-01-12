@@ -33,9 +33,10 @@ label.minmemory=Minimum hukkomelse (MB)
 label.maxmemory=Maximum hukkomelse (MB)
 label.cannotextractmemory=Kan ikke udtrække fra brugerdefinerede Java argumenter
 label.additionalargs=Yderligere argumenter
-label.profileeditor=Profil editor
+label.profileeditor=Indstillinger for profil
 label.profileeditor.small=Administrere dine profiler.
 label.profileeditor.ignoreincompatibility=Advar mig ikke om inkompatible sidemods.
+label.profileeditor.addservers=Tilføj standard Pixelmon server.
 label.nopixelmoninstalls=Ingen Pixelmon installtioner fundet.
 label.noforgeinstalls=Ingen Forge installtioner fundet.
 label.dragdropothermods=Træk & slip andre mods her!
@@ -210,6 +211,9 @@ tooltip.mute=Musik
 tooltip.openoutputdialog=Dette holder konsol fra Minecraft åbent, efter Minecraft er lukket
 tooltip.forcereinstall=Dette tvinger launcheren til at gen-downloade alle bibliotekker næste gang du spiller denne profil.
 tooltip.incompatible=Inkompatibel
+tooltip.sharefacebook=Del på Facebook
+tooltip.sharetwitter=Tweet
+
 
 menu.news=Nyheder
 menu.pixpacks=Pixpacks

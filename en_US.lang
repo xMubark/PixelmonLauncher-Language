@@ -36,6 +36,7 @@ label.additionalargs=Additional arguments
 label.profileeditor=Profile Editor
 label.profileeditor.small=Manage your profiles.
 label.profileeditor.ignoreincompatibility=Don't warn me about incompatible sidemods.
+label.profileeditor.addservers=Add default Pixelmon servers.
 label.nopixelmoninstalls=No Pixelmon installs found.
 label.noforgeinstalls=No Forge installs found.
 label.dragdropothermods=Drag and drop other mods here!
@@ -215,6 +216,8 @@ tooltip.mute=Music
 tooltip.openoutputdialog=This keeps the output text from Minecraft open even after Minecraft has exited.
 tooltip.forcereinstall=This forces the launcher to re-download all the library dependencies the next time you play this profile.
 tooltip.incompatible=Incompatible
+tooltip.sharefacebook=Share to Facebook
+tooltip.sharetwitter=Share to Twitter
 
 menu.news=News
 menu.pixpacks=Pixpacks
