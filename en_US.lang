@@ -93,6 +93,9 @@ label.errorreport.oldversion=You are playing an old version of Pixelmon. Please 
 label.errorreport.outofmemory=You did not allocate enough memory to play Pixelmon! Please go to launcher settings to check your maximum memory setting and custom Java arguments (advanced mode).
 label.errorreport.graphicerror=Your computer does not meet the graphics requirements of Minecraft, or you have not installed an appropriate graphics driver that supports OpenGL!
 label.errorreport.runasadministrator=Please exit and try to run Pixelmon as an administrator (right-click Pixelmon and click on 'Run as administrator') or try to fix your Windows installation.
+label.pixpacks.offline1=We cannot load any Pixpack!
+label.pixpacks.offline2=Please check your Internet connection and press Refresh.
+label.pixpacks.loading=Loading Pixpacks...
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
@@ -204,6 +207,8 @@ button.errorreport.gotowiki=Visit 'Crash Reading 101' to learn about known issue
 button.errorreport.sendandrestart=Send Report & Restart
 button.errorreport.send=Send Report
 button.ok=Ok
+button.ignoreandcontinue=Ignore & Continue
+button.refresh=Refresh
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
