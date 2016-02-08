@@ -88,6 +88,7 @@ label.errorreport.oldversion=Du spiller en gammel version af Pixelmon. Opdater t
 label.errorreport.outofmemory=Du har ikke allokeret nok hukommelse til at spille Pixelmon! Gå til launcher indstillinger, for at kontrollere din maksimale hukommelse indstilling og brugerdefinerede Java argumenter (avanceret tilstand).
 label.errorreport.graphicerror=Din computer opfylder ikke grafiske krav i Minecraft, eller du ikke har installeret en passende grafikdriver, der understøtter OpenGL!
 label.errorreport.runasadministrator=Du skal afslutte og forsøger at køre Pixelmon som administrator (højreklik på Pixelmon og klik på 'Kør som administrator ") eller forsøge at reparere din Windows-installation.
+label.news.cannotparse=Denne version af launcheren kan ikke vise dette opslag korrekt. Klik venligst på titlen for at se resten af indholdet.
 
 messagebox.corruptedconfig=Ødelagt konfiguration
 messagebox.corruptedsettings=Launcher indstillinger ødelagt! Vi har nulstillet alle indstillinger til deres standardværdier.
