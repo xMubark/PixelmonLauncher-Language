@@ -195,6 +195,7 @@ button.cancelchanges=Cancel Changes
 button.save=Save
 button.deleteprofile=Delete Profile
 button.installprofile=Install Profile
+button.newprofile=Create New Profile
 button.browseformod=Browse for Mods
 button.on=On
 button.off=Off
