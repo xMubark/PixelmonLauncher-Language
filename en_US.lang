@@ -91,7 +91,7 @@ label.errorreport.runasadministrator=Please exit and try to run Pixelmon as an a
 label.errorreport.incompatibleforge=Some mods in this profile are incompatible with selected Forge version!
 label.errorreport.outdatedjava=You are using an outdated Java version. Please try to upgrade to Java 1.8 or newer!
 label.errorreport.nodiskspace=Your hard drive are full. Please clear some disk space and try again!
-
+label.news.cannotparse=This version of the launcher cannot display this post properly! Please click the post title to see the content.
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
 messagebox.corruptedprofiles=Your profile information is corrupted! Your world saves are not removed but you will have to create new profiles and copy the old saves in.
