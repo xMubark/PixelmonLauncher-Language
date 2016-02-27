@@ -88,6 +88,9 @@ label.errorreport.oldversion=You are playing an old version of Pixelmon. Please 
 label.errorreport.outofmemory=You did not allocate enough memory to play Pixelmon! Please go to launcher settings to check your maximum memory setting and custom Java arguments (advanced mode).
 label.errorreport.graphicerror=Your computer does not meet the graphics requirements of Minecraft, or you have not installed an appropriate graphics driver that supports OpenGL!
 label.errorreport.runasadministrator=Please exit and try to run Pixelmon as an administrator (right-click Pixelmon and click on 'Run as administrator') or try to fix your Windows installation.
+label.errorreport.incompatibleforge=Some mods in this profile are incompatible with selected Forge version!
+label.errorreport.outdatedjava=You are using an outdated Java version. Please try to upgrade to Java 1.8 or newer!
+label.errorreport.nodiskspace=Your hard drive are full. Please clear some disk space and try again!
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
