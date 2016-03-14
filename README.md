@@ -5,7 +5,7 @@ Language repository for the launcher
 
 First, you need an account here on GitHub.com. Go make one if you have not already!
 
-Got an account? Next up, you need to fork this repository by clicking the Fork button up in the top right corner. This will take you to a new page after it's finished, and the URL will be something like `https://github.com/YourUsername/Pixelmon-Language`. Save that webpage, because you will probably want to go there a lot.
+Got an account? Next up, you need to fork this repository by clicking the Fork button up in the top right corner. This will take you to a new page after it's finished, and the URL will be something like `https://github.com/YourUsername/PixelmonLauncher-Language`. Save that webpage, because you will probably want to go there a lot.
 
 ![Finding the Fork button](http://i.imgur.com/8BHRxHc.png "Fork button location")
 

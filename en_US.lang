@@ -96,6 +96,7 @@ label.errorreport.runasadministrator=Please exit and try to run Pixelmon as an a
 label.pixpacks.offline1=We cannot load any Pixpack!
 label.pixpacks.offline2=Please check your Internet connection and press Refresh.
 label.pixpacks.loading=Loading Pixpacks...
+label.news.cannotparse=This version of the launcher cannot display this post properly! Please click the post title to see the content.
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
@@ -194,6 +195,7 @@ button.cancelchanges=Cancel Changes
 button.save=Save
 button.deleteprofile=Delete Profile
 button.installprofile=Install Profile
+button.newprofile=Create New Profile
 button.browseformod=Browse for Mods
 button.on=On
 button.off=Off
