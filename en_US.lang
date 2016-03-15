@@ -219,6 +219,7 @@ tooltip.configureprofile=Configure Profile
 tooltip.configurepixelmon=Configure Pixelmon
 tooltip.play=Play
 tooltip.install=Install
+tooltip.download=Download
 tooltip.mute=Music
 tooltip.openoutputdialog=This keeps the output text from Minecraft open even after Minecraft has exited.
 tooltip.forcereinstall=This forces the launcher to re-download all the library dependencies the next time you play this profile.
