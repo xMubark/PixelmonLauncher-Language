@@ -75,6 +75,9 @@ label.languagemissing=Don't see your language here?  You can add a new language 
 label.offline1=You are playing offline!
 label.offline2=Check your Internet connection, and restart the launcher to go online.
 label.advancedswitch=Enable advanced features
+label.pixelmonVersions=Pixelmon versions
+label.pixelmonVersions.description=Choose a Pixelmon version for your profile.
+label.pixelmonVersions.select=Select Pixelmon version
 label.servers=Servers
 label.sideMods=Sidemods
 label.sideModsDescription=Click a sidemod to add it to your profile.
@@ -97,6 +100,7 @@ label.pixpacks.offline1=We cannot load any Pixpack!
 label.pixpacks.offline2=Please check your Internet connection and press Refresh.
 label.pixpacks.loading=Loading Pixpacks...
 label.news.cannotparse=This version of the launcher cannot display this post properly! Please click the post title to see the content.
+label.loading=Loading...
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
