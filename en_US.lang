@@ -105,6 +105,7 @@ label.errorreport.codechickencore=You are using a mod that needs CodeChickenCore
 label.pixpacks.offline1=We cannot load any Pixpack!
 label.pixpacks.offline2=Please check your Internet connection and press Refresh.
 label.pixpacks.loading=Loading Pixpacks...
+label.pixpacks.loading.single=Loading Pixpack...
 label.news.cannotparse=This version of the launcher cannot display this post properly! Please click the post title to see the content.
 label.loading=Loading...
 
@@ -224,6 +225,9 @@ button.errorreport.send=Send Report
 button.ok=Ok
 button.ignoreandcontinue=Ignore & Continue
 button.refresh=Refresh
+button.moredetails=More Details
+button.install=Install
+button.update=Update
 
 tooltip.newprofile=Create New Profile
 tooltip.openfolder=Browse to Profile Folder
