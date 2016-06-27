@@ -100,9 +100,12 @@ label.errorreport.netframework=Afslut venligst, forsøg at installere .NET frame
 label.errorreport.optifine=Vær sikker på du benytter den korrekte Optifine version.
 label.errorreport.extractedjar=Put venligst .jar filen ind i profilens mappe istedt for at pakke den ud.
 label.errorreport.unknown=Pixelmon launcher kunne ikke finde fejlen udfra Javas log.
+label.errorreport.outdatedjava=Opdater venligst din Java installation og indstil Java installationen i launcherens indstilinger.
+label.errorreport.codechickencore=Du benytter et mod der kræver CodeChickenCore for at virke.
 label.pixpacks.offline1=Vi kunne ikke indlæse Pixpacks!
 label.pixpacks.offline2=Tjek venligst din internetforbindelse, og tryk derefter på opdater.
 label.pixpacks.loading=Indlæser pixpacks....
+label.pixpacks.loading.single=Indlæser Pixpack..
 label.news.cannotparse=Denne version af launcheren kan ikke vise dette opslag korrekt. Klik venligst på titlen for at se resten af indholdet.
 label.loading=Indlæser...
 
@@ -222,6 +225,9 @@ button.errorreport.send=Send rapport
 button.ok=Okay
 button.ignoreandcontinue=Ignorer & fortsæt
 button.refresh=Opdater
+button.moredetails=Flere detaljer
+button.install=Installer
+button.update=Opdater
 
 tooltip.newprofile=Opret ny profil
 tooltip.openfolder=Gå til profil mappe
