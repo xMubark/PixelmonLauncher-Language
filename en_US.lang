@@ -109,6 +109,15 @@ label.pixpacks.loading.single=Loading Pixpack...
 label.news.cannotparse=This version of the launcher cannot display this post properly! Please click the post title to see the content.
 label.loading=Loading...
 label.experimental=This is an experimental feature! Use at your own risk!
+label.tutorials.start.newprofile=You can click Create New Profile to create a custom profile with any set of Pixelmon and additional mods.
+label.tutorials.start.pixpack=Or you can try out Pixpack, which is premade profiles from Pixelmon team and Pixelmon server owners.
+label.tutorials.newprofile.name=First, give your profile a name
+label.tutorials.newprofile.pixelmon=Then choose Pixelmon and forge version
+label.tutorials.newprofile.mods=After that, you can add more mods by clicking those buttons or dropping the .jar file in here.
+label.tutorials.newprofile.save=Finally, press save!
+label.tutorials.pixpacks.introduction1=Pixpack is a bundle of Pixelmon, mods, configs, resource packs to help you create a complete profile in no time.
+label.tutorials.pixpacks.introduction2=Many pixpack are from Pixelmon servers, providing with all necessary mods and settings to join the servers. Some others give you special experience with shader, mini-maps, etc.
+label.tutorials.pixpacks.actions=You can click on More Details to learn more about every pack or click Install to create a new profile or update existing profile using the Pixpack.
 
 messagebox.corruptedconfig=Corrupted configuration
 messagebox.corruptedsettings=Launcher settings are corrupted! We have reset all settings to their default values.
@@ -200,6 +209,10 @@ messagebox.selectroot.ok=Choose new location
 messagebox.selectroot.notempty=The new folder does not exist or is not empty.
 messagebox.selectroot.nopermission=Pixelmon Launcher cannot modify the content of the new location! Please make sure you have set permission appropriately.
 messagebox.selectroot.cannotmove=Pixelmon Launcher cannot move all data from %s to %s! Please do it yourself and restart the launcher.
+messagebox.tutorials.title=Tutorial
+messagebox.tutorials.message=Is it the first time you use Pixelmon launcher? Do you want some introduction?
+messagebox.tutorials.yes=Sure, show me
+messagebox.tutorials.no=No I know everything
 
 checkbox.deletelocalfiles=Delete local files
 checkbox.customwindowsize=Use custom window size
