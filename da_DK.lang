@@ -109,6 +109,15 @@ label.pixpacks.loading.single=Indlæser Pixpack..
 label.news.cannotparse=Denne version af launcheren kan ikke vise dette opslag korrekt. Klik venligst på titlen for at se resten af indholdet.
 label.loading=Indlæser...
 label.experimental=Dette er en eksperimental feature. Brug den på eget ansvar!
+label.tutorials.start.newprofile=Du kan klikke ny profil, for at oprette en brugerdefineret profil.
+label.tutorials.start.pixpack=Eller du kan prøve en Pixpack, de er lavet af Pixelmon udviklerne, og server ejere.
+label.tutorials.newprofile.name=Først skal du give din profil et navn.
+label.tutorials.newprofile.pixelmon=Derefter skal du vælge Pixelmon & Forge version.
+label.tutorials.newprofile.mods=Efter dette kan du tilføje flere udvidelser, ved at klikke på knapperne & trække .jar filen her til.
+label.tutorials.newprofile.save=Og til sidst skal du trykke på gem!
+label.tutorials.pixpacks.introduction1=Pixpack er en samling af Pixelmon, udvidelser, konfigurationer & resource packs. Lavet for at få dig i gang på igen tid!.
+label.tutorials.pixpacks.introduction2=Mange af pixpacks er fra Pixelmon servere, de giver dig alle de nødvendige mods & indstillinger du skal bruger, for at spille på deres server.
+label.tutorials.pixpacks.actions=Du kan klikke på flere detaljer for at lære mere om hver enkelt pakke. Eller klikke på installer for at lave en ny profil, eller opdatere en eksisterende, med en pixpack.
 
 messagebox.corruptedconfig=Ødelagt konfiguration
 messagebox.corruptedsettings=Launcher indstillinger ødelagt! Vi har nulstillet alle indstillinger til deres standardværdier.
@@ -200,6 +209,10 @@ messagebox.selectroot.ok=Vælg ny placering
 messagebox.selectroot.notempty=Den nye mappe findes ikke, eller er ikke tom.
 messagebox.selectroot.nopermission=Pixelmon Launcher kan ikke ændre på indholdet på den nye placering. Tjek om du har sat dine tilladelser korrekt.
 messagebox.selectroot.cannotmove=Pixelmon Launcher kan ikke flytte data fra %s til %s! Du bedes venligst gøre det selv, og derefter genstarte launcheren.
+messagebox.tutorials.title=Guide
+messagebox.tutorials.message=Er det første gang du benytter Pixelmon launcheren? Hvis ja, kunne du så tænke dig at få en guide til hvordan du bruger den?
+messagebox.tutorials.yes=Ja, dette er første gang
+messagebox.tutorials.no=Eller tak, jeg ved allerede det hele
  
 checkbox.deletelocalfiles=Slet lokale filer
 checkbox.customwindowsize=Brug brugerdefinerede vindue størrelse
