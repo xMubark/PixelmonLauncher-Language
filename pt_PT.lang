@@ -46,7 +46,7 @@ label.webpage=Pagina Web:
 label.authenticating=A autenticar
 label.loggingplayer=A entrar %s em
 label.hellothere=Olá
-label.logindetails=por favor inicia a tua conta minecraft
+label.login.details=por favor inicia a tua conta minecraft
 label.emailusername=Email/Nome de utilizador
 label.password=Palavra Pass
 
