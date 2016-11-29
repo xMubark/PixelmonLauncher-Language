@@ -81,11 +81,8 @@ label.pixelmonVersions.select=Selecciona una versión
 label.servers=Servidores
 label.sideMods=Sidemods
 label.sideModsDescription=Haz clic en un sidemod para añadir a tu perfil.
-<<<<<<< HEAD
 label.nosidemods=No hay sidemods disponibles para esta versión de Pixelmon.
-=======
 label.nosidemods=No hay side-mods disponibles para esta versión de Pixelmon.
->>>>>>> refs/remotes/nguyenquyhy/master
 label.movingprofiles.title=Mover Perfiles
 label.movingprofiles.description=Las carpetas de tus perfiles serán movidas para preparar futuros cambios.
 label.movingprofiles.progress=Moviendo %s
@@ -100,11 +97,9 @@ label.errorreport.oldversion=Estás usando una versión antigua de Pixelmon. ¡P
 label.errorreport.outofmemory=¡No se ha asignado suficiente memoria para jugar a Pixelmon! Por favor vaya a ajustes del lanzador para modificar la memoria máxima y personalizar argumentos de Java (modo avanzado).
 label.errorreport.graphicerror=¡Tu ordenador no cumple con los requisitos gráficos de Minecraft, o es posible que no esten instalados los apropiados drivers gráficos que soporten OpenGL!
 label.errorreport.runasadministrator=Por favor, cierre e intente ejecutar Pixelmon como administrador (clic derecho en Pixelmon y hacer clic en 'Ejecutar como administrador') o intenta validar la instalación de Windows.
-<<<<<<< HEAD
+
 label.errorreport.netframework=¡Por favor, salga, intente  instalar .NET framework 4.6 e intentlo de nuevo! Probablemente has desactivado la actualización automática, por lo tanto framework no puede instalarse automáticamente.
-=======
 label.errorreport.netframework=¡Por favor, salga, intente  instalar .NET framework 4.6 e intentelo de nuevo! Probablemente has desactivado la actualización automática, por lo tanto framework no puede instalarse automáticamente.
->>>>>>> refs/remotes/nguyenquyhy/master
 label.errorreport.optifine=¡Por favor, asegurese de estar usando la versión correcta de Optifine!
 label.errorreport.extractedjar=Por favor, coloca el archivo .jar en la carpeta mods del perfil en vez de extraer el archivo.
 label.errorreport.unknown=El lanzador de Pixelmon no puede detectar el problema de Java log.
@@ -114,24 +109,18 @@ label.pixpacks.offline1=¡No podemos cargar ningún Pixpack!
 label.pixpacks.offline2=Por favor revisa tu conexión a Internet y pulsa en Actualizar.
 label.pixpacks.loading=Cargando Pixpacks...
 label.pixpacks.loading.single=Cargando Pixpack...
-<<<<<<< HEAD
-=======
 label.pixpacks.loading.failed=No se puede cargar la información de los Pixpacks
 label.pixpacks.empty=No hay Pixpacks disponibles
 label.pixpacks.update.checking=Comprobando actualizaciones de Pixpacks...
 label.pixpacks.update.notify=¡Hay actualizaciones de Pixpacks disponibles!
 label.pixpacks.variants.title=Escoge una variante de los Pixpack
 label.pixpacks.variants.subtitle=Rápidamente crea un perfil de los Pixpack
->>>>>>> refs/remotes/nguyenquyhy/master
 label.news.cannotparse=¡Esta versión del lanzador no puede mostrar este post correctamente! Por favor, haga clic en el título del post para ver el contenido.
 label.loading=Cargando...
 label.experimental=¡Esta es una opción experimental! ¡Úselo bajo su propia responsabilidad!
 label.tutorials.start.newprofile=Puedes hacer click en Crear Nuevo Perfil y crear un perfil personalizado con cualquier característica de Pixelmon y mods adiciones.
-<<<<<<< HEAD
 label.tutorials.start.pixpack=También puedes probar un Pixpack, que son perfiles personalizados del equipo de Pixelmon y de propiertarios de servidores de Pixelmon.
-=======
 label.tutorials.start.pixpack=También puedes probar un Pixpack, que son perfiles personalizados del equipo de Pixelmon y de los propiertarios de algunos servidores de Pixelmon.
->>>>>>> refs/remotes/nguyenquyhy/master
 label.tutorials.newprofile.name=En primer lugar, ponle un nombre a tu perfil
 label.tutorials.newprofile.pixelmon=A continuación escoge una versión de Pixelmon y Forge
 label.tutorials.newprofile.mods=Después de esto, puedes añadir mods haciendo clic en las opciones o soltando el archivo .jar aquí.
@@ -156,10 +145,7 @@ messagebox.pixelmondownloadfailed=¡No se puede descargar Pixelmon! %s
 messagebox.cannotdownload=No podemos descargar %s.
 messagebox.cannotextract=No podemos extraer %s.
 messagebox.cannotfind=No podemos encontrar %s.
-<<<<<<< HEAD
-=======
 messagebox.cannotfind.mod=¡No podemos encontrar el mod %s! Por favor, vuelve a añadir el mod al perfil.
->>>>>>> refs/remotes/nguyenquyhy/master
 messagebox.incorrectfilesize=Tamaño del archivo incorrecto.
 messagebox.pixelmonfail=No se pudo añadir Pixelmon.
 messagebox.notforgemod=¡Forge mod no válido!
@@ -228,11 +214,8 @@ messagebox.incompatiblesidemods.message=¡Algunos SideMods de este perfil pueden
 messagebox.incompatiblesidemods.ignore=No avisar de nuevo en este perfil.
 messagebox.incompatiblesidemods.continue=Continuar
 messagebox.selectroot.title=Cambiar Ubicación
-<<<<<<< HEAD
 messagebox.selectroot.message=Cambiar la ubicación de almacenamiento puede causar problemas inesperados a Pixelmon. ¿Deseas continuar?\n\nNota: ¡La nueva ubicación debe estar vacía!
-=======
 messagebox.selectroot.message=Cambiar la ubicación de almacenamiento puede causar problemas inesperados en Pixelmon. ¿Deseas continuar?\n\nNota: ¡La nueva ubicación debe estar vacía!
->>>>>>> refs/remotes/nguyenquyhy/master
 messagebox.selectroot.moveprofiles=Mover perfiles a una nueva ubicación
 messagebox.selectroot.ok=Selecciona la nueva ubicación
 messagebox.selectroot.notempty=La nueva carpeta no existe o no esta vacía.
@@ -274,15 +257,12 @@ button.browseServers=Buscar Servidores
 button.addsidemod=Añadir Sidemod Oficial
 button.exit=Salir
 button.openarticle=Abrir Artículo
-<<<<<<< HEAD
 button.errorreport.copy=Copiar Detalles de Error & Ir al Foro
 button.errorreport.gotowiki=Visitar 'Crash Reading 101' para ver errores comunes
 button.errorreport.sendandrestart=Enviar Informe & Reiniciar
-=======
 button.errorreport.copy=Copiar Detalles de Error e Ir al Foro
 button.errorreport.gotowiki=Visitar 'Crash Reading 101' para ver errores comunes
 button.errorreport.sendandrestart=Enviar Informe y Reiniciar
->>>>>>> refs/remotes/nguyenquyhy/master
 button.errorreport.send=Enviar Informe
 button.ok=Aceptar
 button.ignoreandcontinue=Ignorar & Continuar
@@ -291,10 +271,7 @@ button.moredetails=Más Detalles
 button.install=Instalar
 button.update=Actualizar
 button.opensettings=Abrir Ajustes
-<<<<<<< HEAD
-=======
 button.website=Sitio Web
->>>>>>> refs/remotes/nguyenquyhy/master
 
 tooltip.newprofile=Crear nuevo perfil
 tooltip.openfolder=Ir a la carpeta de perfil
