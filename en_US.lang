@@ -102,6 +102,7 @@ label.errorreport.extractedjar=Please put the .jar file inside the mods folder o
 label.errorreport.unknown=Pixelmon launcher cannot detect the problem from Java log.
 label.errorreport.outdatedjava=Please update your Java to the latest version and set Java Install in Pixelmon launcher settings appropriately.
 label.errorreport.codechickencore=You are using a mod that needs CodeChickenCore to run.
+label.errorreport.nospace=There is not enough space on your computer!
 label.pixpacks.offline1=We cannot load any Pixpack!
 label.pixpacks.offline2=Please check your Internet connection and press Refresh.
 label.pixpacks.loading=Loading Pixpacks...
