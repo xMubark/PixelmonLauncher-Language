@@ -124,6 +124,7 @@ label.tutorials.newprofile.save=Por último, ¡presiona en guardar!
 label.tutorials.pixpacks.introduction1=Los Pixpack son paquetes de Pixelmon, mods, configuraciones, paquetes de recursos para ayudarte a crear un perfil al instante.
 label.tutorials.pixpacks.introduction2=Muchos pixpack son de servidores de Pixelmon, proporcionandote todos los mods necesarios y ajustes para unirte a los servidores. Otros te dan experiencias con los shaders, mini-mapas, etc.
 label.tutorials.pixpacks.actions=Puedes hacer clic en Más Detalles para aprender más sobre los packs o haz clic en Instalar para crear un nuevo perfil o actualizar uno existente usando el Pixpack.
+label.discord.introduction=Chat de voz gratis desde Discord
  
 messagebox.corruptedconfig=Configuración Dañada
 messagebox.corruptedsettings=¡Los ajustes del Lanzador están dañados! Se han reiniciado los ajustes a los valores por defecto.
@@ -264,6 +265,7 @@ button.install=Instalar
 button.update=Actualizar
 button.opensettings=Abrir Ajustes
 button.website=Sitio Web
+button.connect=Conectar
 
 tooltip.newprofile=Crear nuevo perfil
 tooltip.openfolder=Ir a la carpeta de perfil
