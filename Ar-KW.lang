@@ -14,7 +14,7 @@ label.forge = فورج
 
 label.version = النسخة
 
-label.installedmods = وزارة الدفاع المثبتة
+label.installedmods = الموادت المثبته
 
 label.areyousure = هل أنت متأكد؟
 
@@ -24,9 +24,9 @@ label.profileinstaller = الملف المثبت
 
 label.profileinstallerblurb = إدارة الملفات الشخصية.
 
-label.installing = تثبيت٪ الصورة
+label.installing = جاري التثبيت
 
-label.running = الجري٪ الصورة
+label.running = جاري التشغيل
 
 تم تركيب label.installsuccess =٪ الصورة بنجاح!
 
@@ -124,7 +124,7 @@ label.password = كلمة المرور
 
 label.chooselanguage = اختر لغتك
 
-label.noprofiles = لا ملامح متاحة
+label.noprofiles = لايوجد ملف
 
 label.andabove = وما فوق.
 
