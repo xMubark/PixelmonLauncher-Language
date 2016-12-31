@@ -1,0 +1,189 @@
+language.name = العربية
+
+language.region = KW
+
+language.code = AR-KW
+
+
+
+label.minecraft = ماين كرافت
+
+label.pixelmon = Pixelmon
+
+label.forge = فورج
+
+label.version = النسخة
+
+label.installedmods = وزارة الدفاع المثبتة
+
+label.areyousure = هل أنت متأكد؟
+
+label.deleteprofile = هل تريد حذف البيانات الشخصية:
+
+label.profileinstaller = الملف المثبت
+
+label.profileinstallerblurb = إدارة الملفات الشخصية.
+
+label.installing = تثبيت٪ الصورة
+
+label.running = الجري٪ الصورة
+
+تم تركيب label.installsuccess =٪ الصورة بنجاح!
+
+label.runprofile = تشغيل٪ الصورة
+
+لم يتم تثبيت label.installfail =٪ الصورة بنجاح!
+
+label.minecraftoutput = ماين كرافت الناتج
+
+label.minecraftoutput.small = مشاهدته الذهاب.
+
+label.selectjava = اختر جافا التثبيت
+
+label.selectjava.small = نحن في حاجة إليها لتشغيل ماين كرافت.
+
+label.settings = إعدادات
+
+label.launchersettings = إعداد قاذفة.
+
+label.volume = حجم
+
+label.javaargs = الحجج جافا
+
+label.autoupdater = التحديث التلقائي
+
+label.profilesettings = إعدادات الملف الشخصي
+
+label.profilesettings.small = إعداد ملف التعريف الخاص بك.
+
+label.width = العرض
+
+label.height = الطول
+
+label.minmemory = الحد الأدنى من الذاكرة (MB)
+
+label.maxmemory = الذاكرة القصوى (MB)
+
+label.cannotextractmemory = لا يمكن استخراج من الحجج جافا مخصصة
+
+label.additionalargs = حجج إضافية
+
+label.profileeditor = الملف المحرر
+
+label.profileeditor.small = إدارة الملفات الشخصية.
+
+label.profileeditor.ignoreincompatibility = لا يحذر لي عن sidemods غير متوافق.
+
+label.profileeditor.addservers = إضافة خوادم Pixelmon الافتراضية.
+
+label.nopixelmoninstalls = لا Pixelmon بتثبيت تم العثور عليها.
+
+label.noforgeinstalls = لا فورج بتثبيت تم العثور عليها.
+
+label.dragdropothermods = سحب وإسقاط تعديل والأخرى هنا!
+
+label.dragdroppixelmon = لإضافة نسخة جديدة من Pixelmon، وسحب وإسقاط جرة العالمية Pixelmon هنا!
+
+label.dragdropforge = لإضافة فورج تثبيت، وسحب وإسقاط فورج المثبت جرة هنا!
+
+label.visitpixelmonsite = انقر هنا لزيارة الموقع Pixelmon!
+
+label.visitforgesite = انقر هنا لزيارة صفحة التحميل!
+
+label.basesupportedversion = هذا الإصدار Pixelmon يدعم الإصدارات فورج
+
+label.profileinstaller.small = تثبيت ملف تعريف مخصص.
+
+label.dragdroppixelmondefined = لم يتم تثبيت الإصدار المطلوب من Pixelmon. سحب وإسقاط جرة العالمية Pixelmon هنا!
+
+label.dragdropforgedefined = لم يتم تثبيت الإصدار المطلوب من فورج. سحب وإسقاط المثبت جرة فورج هنا!
+
+label.webpage = صفحة ويب:
+
+label.authenticating = المصادقة
+
+label.loggingplayer = تسجيل٪ الصورة في
+
+label.hellothere = مرحبا هناك.
+
+label.login.details = الرجاء مصادقة حساب ماين كرافت الخاص بك.
+
+label.login.empty = الرجاء إدخال اسم المستخدم وكلمة المرور الخاصة بك!
+
+label.login.failed = فشل تسجيل الدخول! ٪ الصورة
+
+label.login.invalid = اسم المستخدم غير صحيح أو كلمة المرور.
+
+label.login.notpurchased = تأكد من أن كنت قد اشتريت ماين كرافت.
+
+label.networkerror الخطأ = الشبكة.
+
+label.emailusername = البريد الإلكتروني
+
+label.password = كلمة المرور
+
+label.chooselanguage = اختر لغتك
+
+label.noprofiles = لا ملامح متاحة
+
+label.andabove = وما فوق.
+
+label.creatingprofile = إنشاء الملف الشخصي
+
+إذا كنت متصلا بالإنترنت سوف تكون قادرة على الاختيار من بين إصدارات Pixelmon وتزوير للتحميل التلقائي label.profilehelppar1 =.
+
+label.profilehelppar2 = إطاحة Pixelmon أو تزوير المثبت جرة على هذه الشاشة سوف تثبيته لذلك يمكن اختيار لملفك الشخصي.
+
+label.profilehelppar3 = سوف يسقط أي وزارة الدفاع آخرين إضافته إلى قائمة اللاعبين يدخلون إضافية.
+
+label.browseformodstitle = إضافة وزارة الدفاع
+
+label.updateprofile = تحديث الملف الشخصي
+
+label.pixelmonconfig.title = Pixelmon تكوينات
+
+label.pixelmonconfig.subtitle = تكوين لعوالم لاعب واحد الخاص بك
+
+label.languagemissing = لم تشاهد اللغة الخاصة بك هنا؟ يمكنك إضافة لغة جديدة إلى قائمة لدينا من خلال المساهمة في أكثر من:
+
+label.offline1 = أنت تقوم حاليا!
+
+label.offline2 = تحقق من اتصال الإنترنت الخاص بك، وإعادة تشغيل قاذفة الذهاب على الانترنت.
+
+label.advancedswitch = تمكين الميزات المتقدمة
+
+label.pixelmonVersions = الإصدارات Pixelmon
+
+label.pixelmonVersions.description = اختيار نسخة Pixelmon لملفك الشخصي.
+
+نسخة label.pixelmonVersions.select = حدد Pixelmon
+
+label.servers = ملقمات
+
+label.sideMods = Sidemods
+
+label.sideModsDescription = انقر فوق sidemod لإضافتها إلى ملف التعريف الخاص بك.
+
+label.nosidemods = لا sidemods المتوفرة لهذا الإصدار من Pixelmon.
+
+label.movingprofiles.title = ملامح نقل
+
+label.movingprofiles.description = يتم نقل مجلدات ملفك الشخصي حول الاستعداد للتغيرات المستقبلية.
+
+label.movingprofiles.progress = نقل الصورة٪
+
+label.movingprofiles.failed = لا يمكن نقل المجلد٪ الصورة. يرجى إعادة تشغيل قاذفة للمحاولة مرة أخرى!
+
+label.errorreport.title = أبلغ عن مشكلة
+
+label.errorreport.launcher = لقد وجدت مجرد خلل غير متوقع في قاذفة!
+
+label.errorreport.pixelmon = لقد وجدت مجرد خلل غير متوقع في Pixelmon!
+
+label.errorreport.additional = نحن سوف نقدر كثيرا إذا كنت تستطيع أن تعطينا بعض المعلومات الإضافية، حتى نتمكن من تحديد وإصلاح الخلل.
+
+label.errorreport.description = ماذا كنت تفعل في ذلك الوقت؟
+
+label.errorreport.contact = اسم المستخدم المنتدى Pixelmon لديك أو عنوان البريد الإلكتروني
+
+label.errorreport.oldversion = النسخة القديمة
