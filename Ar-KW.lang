@@ -442,7 +442,7 @@ messagebox.tutorials.title = دروس
 
 messagebox.tutorials.message = هل هذه هي المرة الأولى التي تستخدم Pixelmon قاذفة؟ هل تريد بعض مقدمة؟
 
-messagebox.tutorials.yes = بالتأكيد، تبين لي
+messagebox.tutorials.yes = بالتأكيد
 
 messagebox.tutorials.no = لا أعرف كل شيء
 
@@ -490,11 +490,11 @@ button.save = حفظ
 
 button.deleteprofile = حذف الملف
 
-button.installprofile = تثبيت الملف الشخصي
+button.installprofile = تثبيت الملف
 
 button.newprofile = إنشاء ملف تعريف جديد
 
-button.browseformod = تصفح عن وزارة الدفاع
+button.browseformod = تصفح عن المودات
 
 button.on = تشغيل
 
@@ -562,9 +562,9 @@ tooltip.forcereinstall = هذا يفرض على قاذفة لإعادة تحمي
 
 tooltip.incompatible = غير متوافق
 
-tooltip.sharefacebook = حصة في الفيسبوك
+tooltip.sharefacebook = المشاركة في فيسبوك
 
-tooltip.sharetwitter = المشاركة في Twitter
+tooltip.sharetwitter = المشاركة في تويتر
 
 
 
