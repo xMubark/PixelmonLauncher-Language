@@ -38,7 +38,7 @@ label.minecraftoutput = ماين كرافت الناتج
 
 label.minecraftoutput.small = مشاهدته الذهاب.
 
-label.selectjava = اختر جافا التثبيت
+label.selectjava = اختر جافا المثبة
 
 label.selectjava.small = نحن في حاجة إليها لتشغيل ماين كرافت.
 
@@ -158,11 +158,11 @@ label.pixelmonVersions.description = اختيار نسخة Pixelmon لملفك �
 
 نسخة label.pixelmonVersions.select = حدد Pixelmon
 
-label.servers = ملقمات
+label.servers = سيرافرات
 
-label.sideMods = Sidemods
+label.sideMods = المودات الجانبيه
 
-label.sideModsDescription = انقر فوق sidemod لإضافتها إلى ملف التعريف الخاص بك.
+label.sideModsDescription = وصف الخاص بالمودات الجانبيه
 
 label.nosidemods = لا sidemods المتوفرة لهذا الإصدار من Pixelmon.
 
@@ -440,7 +440,7 @@ messagebox.selectroot.cannotmove = Pixelmon قاذفة لا يمكن نقل كا
 
 messagebox.tutorials.title = دروس
 
-messagebox.tutorials.message = هل هذه هي المرة الأولى التي تستخدم Pixelmon قاذفة؟ هل تريد بعض مقدمة؟
+messagebox.tutorials.message = هل هذا اول مرة تستخدم فيها هذا الانشر؟
 
 messagebox.tutorials.yes = بالتأكيد
 
