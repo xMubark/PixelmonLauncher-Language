@@ -1,0 +1,697 @@
+language.name = العربية
+
+language.region = KW
+
+language.code = AR-KW
+
+
+
+label.minecraft = ماين كرافت
+
+label.pixelmon = Pixelmon
+
+label.forge = فورج
+
+label.version = النسخة
+
+label.installedmods = وزارة الدفاع المثبتة
+
+label.areyousure = هل أنت متأكد؟
+
+label.deleteprofile = هل تريد حذف البيانات الشخصية:
+
+label.profileinstaller = الملف المثبت
+
+label.profileinstallerblurb = إدارة الملفات الشخصية.
+
+label.installing = تثبيت٪ الصورة
+
+label.running = الجري٪ الصورة
+
+تم تركيب label.installsuccess =٪ الصورة بنجاح!
+
+label.runprofile = تشغيل٪ الصورة
+
+لم يتم تثبيت label.installfail =٪ الصورة بنجاح!
+
+label.minecraftoutput = ماين كرافت الناتج
+
+label.minecraftoutput.small = مشاهدته الذهاب.
+
+label.selectjava = اختر جافا التثبيت
+
+label.selectjava.small = نحن في حاجة إليها لتشغيل ماين كرافت.
+
+label.settings = إعدادات
+
+label.launchersettings = إعداد الانشر.
+
+label.volume = الصوت
+
+label.javaargs = الحجج جافا
+
+label.autoupdater = التحديث التلقائي
+
+label.profilesettings = إعدادات الملف الشخصي
+
+label.profilesettings.small = إعداد ملف التعريف الخاص بك.
+
+label.width = العرض
+
+label.height = الطول
+
+label.minmemory = الحد الأدنى من الذاكرة (MB)
+
+label.maxmemory = الذاكرة القصوى (MB)
+
+label.cannotextractmemory = لا يمكن استخراج من الحجج جافا مخصصة
+
+label.additionalargs = حجج إضافية
+
+label.profileeditor = الملف المحرر
+
+label.profileeditor.small = إدارة الملفات الشخصية.
+
+label.profileeditor.ignoreincompatibility = لا يحذر لي عن sidemods غير متوافق.
+
+label.profileeditor.addservers = إضافة خوادم Pixelmon الافتراضية.
+
+label.nopixelmoninstalls = لا Pixelmon بتثبيت تم العثور عليها.
+
+label.noforgeinstalls = لا فورج بتثبيت تم العثور عليها.
+
+label.dragdropothermods = سحب وإسقاط تعديل والأخرى هنا!
+
+label.dragdroppixelmon = لإضافة نسخة جديدة من Pixelmon، وسحب وإسقاط جرة العالمية Pixelmon هنا!
+
+label.dragdropforge = لإضافة فورج تثبيت، وسحب وإسقاط فورج المثبت جرة هنا!
+
+label.visitpixelmonsite = انقر هنا لزيارة الموقع Pixelmon!
+
+label.visitforgesite = انقر هنا لزيارة صفحة التحميل!
+
+label.basesupportedversion = هذا الإصدار Pixelmon يدعم الإصدارات فورج
+
+label.profileinstaller.small = تثبيت ملف تعريف مخصص.
+
+label.dragdroppixelmondefined = لم يتم تثبيت الإصدار المطلوب من Pixelmon. سحب وإسقاط جرة العالمية Pixelmon هنا!
+
+label.dragdropforgedefined = لم يتم تثبيت الإصدار المطلوب من فورج. سحب وإسقاط المثبت جرة فورج هنا!
+
+label.webpage = صفحة ويب:
+
+label.authenticating = المصادقة
+
+label.loggingplayer = تسجيل٪  
+
+label.hellothere = مرحبا هناك.
+
+label.login.details = الرجاء مصادقة حساب ماين كرافت الخاص بك.
+
+label.login.empty = الرجاء إدخال اسم المستخدم وكلمة المرور الخاصة بك!
+
+label.login.failed = فشل تسجيل الدخول! ٪ 
+
+label.login.invalid = اسم المستخدم غير صحيح أو كلمة المرور.
+
+label.login.notpurchased = تأكد من أن كنت قد اشتريت ماين كرافت.
+
+label.networkerror الخطأ = الشبكة.
+
+label.emailusername = البريد الإلكتروني
+
+label.password = كلمة المرور
+
+label.chooselanguage = اختر لغتك
+
+label.noprofiles = لا ملف متاحة
+
+label.andabove = وما فوق.
+
+label.creatingprofile = إنشاء الملف الشخصي
+
+إذا كنت متصلا بالإنترنت سوف تكون قادرة على الاختيار من بين إصدارات Pixelmon وتزوير للتحميل التلقائي label.profilehelppar1 =.
+
+label.profilehelppar2 = إطاحة Pixelmon أو تزوير المثبت جرة على هذه الشاشة سوف تثبيته لذلك يمكن اختيار لملفك الشخصي.
+
+label.profilehelppar3 = سوف يسقط أي وزارة الدفاع آخرين إضافته إلى قائمة اللاعبين يدخلون إضافية.
+
+label.browseformodstitle = إضافة وزارة الدفاع
+
+label.updateprofile = تحديث الملف الشخصي
+
+label.pixelmonconfig.title = Pixelmon تكوينات
+
+label.pixelmonconfig.subtitle = تكوين لعوالم لاعب واحد الخاص بك
+
+label.languagemissing = لم تشاهد اللغة الخاصة بك هنا؟ يمكنك إضافة لغة جديدة إلى قائمة لدينا من خلال المساهمة في أكثر من:
+
+label.offline1 = أنت تقوم حاليا!
+
+label.offline2 = تحقق من اتصال الإنترنت الخاص بك، وإعادة تشغيل قاذفة الذهاب على الانترنت.
+
+label.advancedswitch = تمكين الميزات المتقدمة
+
+label.pixelmonVersions = الإصدارات Pixelmon
+
+label.pixelmonVersions.description = اختيار نسخة Pixelmon لملفك الشخصي.
+
+نسخة label.pixelmonVersions.select = حدد Pixelmon
+
+label.servers = ملقمات
+
+label.sideMods = Sidemods
+
+label.sideModsDescription = انقر فوق sidemod لإضافتها إلى ملف التعريف الخاص بك.
+
+label.nosidemods = لا sidemods المتوفرة لهذا الإصدار من Pixelmon.
+
+label.movingprofiles.title = ملامح نقل
+
+label.movingprofiles.description = يتم نقل مجلدات ملفك الشخصي حول الاستعداد للتغيرات المستقبلية.
+
+label.movingprofiles.progress = نقل الصورة٪
+
+label.movingprofiles.failed = لا يمكن نقل المجلد٪ الصورة. يرجى إعادة تشغيل قاذفة للمحاولة مرة أخرى!
+
+label.errorreport.title = أبلغ عن مشكلة
+
+label.errorreport.launcher = لقد وجدت مجرد خلل غير متوقع في قاذفة!
+
+label.errorreport.pixelmon = لقد وجدت مجرد خلل غير متوقع في Pixelmon!
+
+label.errorreport.additional = نحن سوف نقدر كثيرا إذا كنت تستطيع أن تعطينا بعض المعلومات الإضافية، حتى نتمكن من تحديد وإصلاح الخلل.
+
+label.errorreport.description = ماذا كنت تفعل في ذلك الوقت؟
+
+label.errorreport.contact = اسم المستخدم المنتدى Pixelmon لديك أو عنوان البريد الإلكتروني
+
+label.errorreport.oldversion = النسخة القديمة
+
+label.errorreport.outofmemory = أنت لم تخصيص ذاكرة كافية للعب Pixelmon! يرجى الدخول إلى إعدادات قاذفة للتحقق أقصى قدر من ضبط الذاكرة الخاصة بك والحجج جافا مخصصة (الوضع المتقدم).
+
+label.errorreport.graphicerror = جهاز الكمبيوتر الخاص بك لا تفي بمتطلبات الرسومات من ماين كرافت، أو لديك لم يتم تثبيت برنامج تشغيل الرسومات المناسبة التي تدعم برنامج OpenGL!
+
+label.errorreport.runasadministrator = الرجاء الخروج ومحاولة تشغيل Pixelmon كمسؤول (بزر الماوس الأيمن فوق Pixelmon وانقر على "تشغيل كمسؤول") أو محاولة إصلاح تثبيت Windows.
+
+label.errorreport.netframework = الرجاء الخروج، في محاولة لتثبيت الإطار الصافي 4.6 وحاول مرة أخرى! وربما كنت قد تعطيل التحديث التلقائي، لذلك لا يمكن أن يتم تثبيت الإطار تلقائيا.
+
+label.errorreport.optifine = يرجى التأكد من أنك تستخدم نسخة Optifine الصحيح!
+
+label.errorreport.extractedjar = الرجاء وضع ملف بامتداد داخل مجلد تعديل ملف التعريف بدلا من استخراج الملف.
+
+label.errorreport.unknown = Pixelmon قاذفة لا يمكن الكشف عن المشكلة من سجل جافا.
+
+label.errorreport.outdatedjava = الرجاء تحديث جافا إلى الإصدار الأحدث ومجموعة جافا التثبيت في إعدادات قاذفة Pixelmon بشكل مناسب.
+
+label.errorreport.codechickencore = أنت تستخدم وزارة الدفاع الذي يحتاج CodeChickenCore لتشغيل.
+
+label.errorreport.nospace = ليس هناك مساحة كافية على جهاز الكمبيوتر الخاص بك!
+
+label.pixpacks.offline1 = نحن لا يمكن تحميل أي Pixpack!
+
+label.pixpacks.offline2 = الرجاء التحقق من اتصال الإنترنت الخاص بك واضغط على تحديث.
+
+label.pixpacks.loading = تحميل Pixpacks ...
+
+label.pixpacks.loading.single = تحميل Pixpack ...
+
+label.pixpacks.loading.failed = لا يمكن تحميل المعلومات Pixpack
+
+label.pixpacks.empty = لا pixpack متاح
+
+label.pixpacks.update.checking = التحقق من تحديث Pixpack ...
+
+label.pixpacks.update.notify = بعض Pixpacks على تحديثات بالنسبة لك!
+
+label.pixpacks.variants.title = اختر Pixpack البديل
+
+label.pixpacks.variants.subtitle = بسرعة إنشاء ملف تعريف من Pixpack
+
+label.news.cannotparse = هذا الإصدار من قاذفة لا يمكن عرض هذه الوظيفة بشكل صحيح! يرجى النقر على عنوان آخر لرؤية المحتوى.
+
+label.loading = تحميل ...
+
+label.experimental = هذا هو ميزة تجريبية! استخدام على مسؤوليتك الخاصة!
+
+label.tutorials.start.newprofile = يمكنك انقر فوق إنشاء ملف شخصي جديد لإنشاء ملف تعريف العرف مع أي مجموعة من Pixelmon وتعديل إضافية.
+
+label.tutorials.start.pixpack = أو يمكنك تجربة Pixpack، وهو الشخصية ولم يضف من فريق Pixelmon وأصحاب الخادم Pixelmon.
+
+label.tutorials.newprofile.name = أولا، إعطاء ملف التعريف الخاص بك اسم
+
+label.tutorials.newprofile.pixelmon = ثم اختر Pixelmon وإقامة النسخة
+
+label.tutorials.newprofile.mods = بعد ذلك، يمكنك إضافة المزيد من وزارة الدفاع عن طريق النقر تلك الأزرار أو إسقاط ملف بامتداد هنا.
+
+label.tutorials.newprofile.save = أخيرا، اضغط على حفظ!
+
+label.tutorials.pixpacks.introduction1 = Pixpack هو مجموعة من Pixelmon، تعديل، التكوينات، وحزم الموارد لمساعدتك في إنشاء صورة كاملة في أي وقت من الأوقات.
+
+label.tutorials.pixpacks.introduction2 = كثير pixpack هي من خوادم Pixelmon، مع توفير جميع وتعديل والإعدادات اللازمة للانضمام إلى الخوادم. البعض الآخر تعطيك تجربة خاصة مع تظليل، مصغرة خرائط، الخ
+
+label.tutorials.pixpacks.actions = يمكنك النقر على المزيد من التفاصيل لمعرفة المزيد حول كل حزمة أو انقر فوق تثبيت لإنشاء ملف تعريف جديد أو تحديث ملف التعريف الموجود باستخدام Pixpack.
+
+label.discord.introduction = الحرة الدردشة الصوتية من الخلاف
+
+
+
+messagebox.corruptedconfig = التكوين التالف
+
+messagebox.corruptedsettings = تلف إعدادات المشغل! لقد إعادة تعيين كافة الإعدادات إلى قيمها الافتراضية.
+
+messagebox.corruptedprofiles = تلف معلومات ملفك الشخصي! لم تتم إزالة ينقذ العالم الذي تعيشون فيه ولكن سيكون لديك لإنشاء ملفات جديدة ونسخ يوفر القديم في.
+
+messagebox.corruptedinstallation = معطوب لديك تركيب Pixelmon قاذفة! الرجاء في محاولة لإعادة تثبيت.
+
+فشل messagebox.installfailed = التثبيت.
+
+messagebox.missingpixelmon.offline = لا يمكن العثور على هذا الإصدار Pixelmon. يرجى التحقق من اتصال الإنترنت الخاص بك وحاول مرة أخرى أو الذهاب إلى الملف الشخصي محرر لاختيار النسخة Pixelmon آخر!
+
+messagebox.missingpixelmon.online = لا يمكن العثور على هذا الإصدار Pixelmon. يرجى الدخول إلى الملف الشخصي محرر لوضع Pixelmon مرة أخرى!
+
+messagebox.missingpixelmon.edit.offline = لا يمكن العثور على هذا الإصدار Pixelmon! يرجى التحقق من اتصال الإنترنت الخاص بك أو إعداد نسخة من Pixelmon مرة أخرى.
+
+messagebox.missingpixelmon.edit.online = لا يمكن العثور على هذا الإصدار Pixelmon! الرجاء ضبط نسخة Pixelmon مرة أخرى.
+
+messagebox.nojava = المسار جافا اختياره غير صالح! الرجاء إعادة تثبيت جافا وحاول مرة أخرى.
+
+messagebox.nojavatitle = جافا غير موجود.
+
+messagebox.minecraftdownloadfailed = لا يمكن تحميل minecraft.jar!
+
+messagebox.pixelmondownloadfailed = لا يمكن تحميل Pixelmon! ٪ الصورة
+
+messagebox.cannotdownload = لا يمكن تنزيل٪ s.
+
+messagebox.cannotextract = لا يمكن استخراج٪ الصورة.
+
+messagebox.cannotfind = لا يمكن العثور على٪ الصورة.
+
+messagebox.cannotfind.mod = لا يمكن العثور على وزارة الدفاع٪ المفضل يرجى إضافته وزارة الدفاع إلى ملف التعريف.
+
+messagebox.incorrectfilesize = حجم ملف غير صحيح.
+
+messagebox.pixelmonfail = لا يمكن إضافة Pixelmon.
+
+messagebox.notforgemod = ليست قهوة وزارة الدفاع صحيح!
+
+messagebox.unsupportedversion = غير مدعوم Pixelmon إصدار!
+
+messagebox.invalidpixjar = ليس Pixelmon جرة صالحة!
+
+messagebox.cantopenfile = لا يمكن فتح الملف!
+
+messagebox.cantstart = لا يمكن بدء Pixelmon!
+
+messagebox.cannotdownload.minecraftversions = لا يمكن الحصول على الإصدارات ماين كرافت. يرجى التحقق من اتصال الإنترنت الخاص بك وحاول مرة أخرى!
+
+messagebox.insufficientmemory = لا يكون جهاز الكمبيوتر الخاص بك ذاكرة كافية في الوقت الراهن أو الحجج جافا (الوضع المتقدم) غير صحيحة! يرجى الدخول إلى إعدادات المشغل لخفض الحد الأقصى الذاكرة أو إغلاق بعض البرامج قيد التشغيل لتحرير الذاكرة أو تحقق الحجج جافا (الوضع المتقدم).
+
+messagebox.missinglibrary = مكتبة٪ الصورة مفقود! يرجى الضغط على تحميل لأعد تنزيل ذلك.
+
+messagebox.missingforge = فورج مفقود! يرجى إسقاط المثبت فورج في التشكيل الجانبي محرر أو اضغط على تحميل لأعد تنزيل ذلك.
+
+messagebox.incompatibleforge = فورج إصدار غير متوافق مع Pixelmon!
+
+وأضاف messagebox.forgeadded = فورج.
+
+messagebox.pixelmonnotselected = الرجاء تحديد إصدار Pixelmon أولا!
+
+messagebox.profiles.cantsave = لا يمكن حفظ البيانات الشخصية!
+
+messagebox.profiles.cantdelete = لا يمكن حذف الملف الشخصي
+
+messagebox.profiles.cantdelete.details = لا يمكن تنظيف مجلد ملف تعريف٪ الصورة. من فضلك حاول إغلاق كافة تشغيل ماين كرافت وحذف المجلد يدويا!
+
+messagebox.profiles.emptyname = يرجى تحديد اسم الملف الشخصى!
+
+messagebox.profiles.toolongname = يرجى استخدام اسم أقصر لمحة!
+
+messagebox.profiles.existingname = تم بالفعل استخدام هذا الاسم الشخصي!
+
+messagebox.profiles.download.title = الملف تحميل
+
+messagebox.profiles.download.message = قد تحتاج إلى تحميل بعض الملفات قبل أن تكون قادرة على لعب هذا الملف. \ n هل تريد بدء تحميل الآن؟
+
+messagebox.pixelmonconfig.cantopen = لا يمكن فتح ملف التكوين!
+
+messagebox.pixelmonconfig.notexist = عدم وجود ملف التكوين.
+
+تلف messagebox.pixelmonconfig.wrongformat ملف = التكوين.
+
+messagebox.pixelmonconfig.cantreadconfig = لا يمكن قراءة تكوينات Pixelmon!
+
+تم حفظ messagebox.pixelmonconfig.savedtitle = تكوين!
+
+تم حفظ messagebox.pixelmonconfig.savedmessage = تكوين ولقد تم إنشاء ملف النسخ الاحتياطي في نفس المجلد.
+
+messagebox.pixelmonconfig.failedtitle = لا يمكن حفظ التكوين!
+
+messagebox.pixelmonconfig.failedmessage = نحن لا يمكن حفظ التغييرات. الرجاء معاودة المحاولة في وقت لاحق!
+
+messagebox.pixelmonconfig.notsupported = نحن لا ندعم تكوينات تحرير هذا الإصدار Pixelmon في هذه اللحظة! هل تريد فتح الملف٪ s مباشرة (باستخدام محرر نصوص)؟
+
+messagebox.assetsindexerror = وارتفع مؤشر الأصول غير صالح!
+
+messagebox.assetsdlerror = لا يمكن أن تحميل الأصول٪ الصورة.
+
+messagebox.settings.invalidsize = الرجاء إدخال رقم صحيح لعرض النافذة وارتفاع أو إيقاف حجم نافذة مخصصة!
+
+يجب ألا يكون عرض messagebox.settings.sizetoosmall = النافذة وارتفاع أقل من 20!
+
+messagebox.settings.invalidmemory = إعدادات الذاكرة في الحجج جافا غير صحيحة. تم إعادة تعيين أنها إلى القيم الافتراضية.
+
+messagebox.settings.invalidtitle = الإعداد غير صالح
+
+messagebox.settings.badjavaversion = أنت تستخدم 32 بت جافا على نظام 64 بت. الرجاء اختيار الإصدار 64 بت لتكون قادرة على استخدام المزيد من الذاكرة.
+
+messagebox.settings.badjavaversiontitle = نسخة باد جافا
+
+messagebox.settings.advancedmode = الوضع المتقدم
+
+messagebox.settings.usedefaultjavaarguments = سيتم تعيين الحجج جافا المخصص للتقصير!
+
+messagebox.pixpack.invalidpack = غير صالح Pixpack
+
+تلف messagebox.pixpack.invalidsetup = ملف الإعداد!
+
+messagebox.pixpack.wrongpixelmon نسخة = خاطئ من Pixelmon لهذا الملف!
+
+messagebox.pixpack.wrongforge = إصدار خاطئ من فورج لهذا الملف!
+
+messagebox.pixpack.wrongmod = لا يمكن إضافة وزارة الدفاع
+
+messagebox.pixpack.dropothermod = الرجاء إسقاط الملف٪ s بدلا من ذلك!
+
+messagebox.pixpack.corruptedstyle = تالف نمط مخصص من هذا Pixpack!
+
+messagebox.pixpack.memoryrequirement.title = متطلبات الذاكرة
+
+messagebox.pixpack.memoryrequirement.minimum = هذا Pixpack يتطلب٪ الصورة ميغابايت من الذاكرة! يرجى تعديل بطاقة الذاكرة القصوى في ضبط قاذفة وحاول مرة أخرى.
+
+توصي messagebox.pixpack.memoryrequirement.recommended = هذا Pixpack٪ الصورة ميغابايت من الذاكرة! قد واجهت تأخر أو تعطل دون تغيير الخاص بك الذاكرة القصوى في ضبط قاذفة.
+
+messagebox.errorreport.title = أبلغ عن مشكلة
+
+messagebox.errorreport.copytitle = نسخة تفاصيل الخطأ
+
+messagebox.errorreport.copymessage = تم نسخ تفاصيل الخطأ إلى الحافظة. يمكنك استخدام هذا بالإبلاغ عن المشكلة في منطقتنا تعقب علة.
+
+messagebox.errorreport.descriptionrequired = واسمحوا لنا أن نعرف المزيد عن ما كنت تفعل في وقت الحادث!
+
+messagebox.errorreport.contactrequired = واسمحوا لنا أن نعرف المنتدى اسم المستخدم Pixelmon الخاص بك أو عنوان البريد الإلكتروني!
+
+messagebox.errorreport.failedmessage = عذرا، لا يمكن إرسال تقرير عن الخطأ في هذه اللحظة!
+
+messagebox.errorreport.blockedmessage = عذرا، لا يمكن إرسال تقرير عن الخطأ في هذه اللحظة! يرجى المحاولة مرة أخرى غدا.
+
+messagebox.errorreport.duplicatedissue = يبدو أنك قد قدمت قضية مماثلة من قبل. هل أنت متأكد أنك تريد أن تقدم مرة أخرى؟
+
+messagebox.errorreport.successmessage = شكرا على الإبلاغ القضية.
+
+messagebox.error.title = خطأ Pixelmon
+
+messagebox.error.cannotopenlink = عذرا، لا يمكن فتح هذا الرابط في هذه اللحظة! يرجى استخدام المتصفح والذهاب إلى هذا العنوان بدلا٪ الصورة.
+
+messagebox.error.cannotopenfile = عذرا، لا يمكن فتح هذا الملف في هذه اللحظة! يرجى استخدام مستكشف الملفات وفتح٪ s.
+
+messagebox.incompatiblesidemods.title = يتعارض Sidemods
+
+messagebox.incompatiblesidemods.message = بعض sidemods في هذا الملف قد لا تكون متوافقة مع النسخة Pixelmon الحالي!
+
+messagebox.incompatiblesidemods.ignore = لا نحذر لي مرة أخرى لهذا الملف.
+
+messagebox.incompatiblesidemods.continue = متابعة
+
+messagebox.selectroot.title = تغيير موقع التخزين
+
+messagebox.selectroot.message = تغيير موقع تخزين قد يسبب مشاكل غير متوقعة لPixelmon. هل ترغب في الاستمرار \ n \ n ملاحظة: يجب أن يكون موقع جديد فارغ!
+
+messagebox.selectroot.moveprofiles = نقل التشكيلات الحالية إلى موقع جديد
+
+messagebox.selectroot.ok = اختيار موقع جديد
+
+messagebox.selectroot.notempty = المجلد الجديد غير موجود أو ليس فارغا.
+
+messagebox.selectroot.nopermission = Pixelmon قاذفة لا يمكن تعديل محتوى الموقع الجديد! من فضلك تأكد من أن تعيين إذن مناسب.
+
+messagebox.selectroot.cannotmove = Pixelmon قاذفة لا يمكن نقل كافة البيانات من٪ s إلى٪ s! يرجى تفعل ذلك بنفسك وإعادة تشغيل قاذفة.
+
+messagebox.tutorials.title = دروس
+
+messagebox.tutorials.message = هل هذه هي المرة الأولى التي تستخدم Pixelmon قاذفة؟ هل تريد بعض مقدمة؟
+
+messagebox.tutorials.yes = بالتأكيد
+
+messagebox.tutorials.no = لا أعرف كل شيء
+
+
+
+checkbox.deletelocalfiles = حذف الملفات المحلية
+
+checkbox.customwindowsize = استخدام حجم نافذة مخصصة
+
+checkbox.openoutputdialog = إبقاء الحوار الناتج مفتوحة بعد مخارج ماين كرافت
+
+checkbox.forcereinstall = إعادة تثبيت كافة مكتبات تثبيت المقبل
+
+checkbox.defaultPixelmonServers = خوادم Pixelmon اضافة الافتراضي
+
+
+
+button.logout = تسجيل الخروج
+
+button.browse = استعراض
+
+button.continue = متابعة
+
+button.close = إغلاق
+
+button.minimize = تصغير
+
+button.cancel = الغاء
+
+button.language = اللغة
+
+button.selectjava = اختيار جافا التثبيت
+
+button.selectroot = تغيير موقع التخزين
+
+button.checknow = تحقق الآن
+
+button.configure = تكوين
+
+button.settings = إعدادات
+
+button.cancelchanges = إلغاء التغييرات
+
+button.save = حفظ
+
+button.deleteprofile = حذف الملف
+
+button.installprofile = تثبيت الملف
+
+button.newprofile = إنشاء ملف تعريف جديد
+
+button.browseformod = تصفح عن المودات
+
+button.on = تشغيل
+
+button.off = معطلة
+
+button.additem = إضافة عنصر
+
+button.browseServers = تصفح خوادم
+
+button.addsidemod = إضافة Sidemod الرسمية
+
+button.exit = إنهاء
+
+button.openarticle = المفتوحة المادة
+
+button.errorreport.copy = نسخة تفاصيل الخطأ وتذهب إلى منتدى
+
+button.errorreport.gotowiki = زيارة موقع تحطم القراءة 101 'لمعرفة المشكلات المعروفة حول
+
+button.errorreport.sendandrestart = أرسل وإعادة تشغيل
+
+button.errorreport.send = أرسل
+
+button.ok = طيب
+
+button.ignoreandcontinue = تجاهل ومتابعة
+
+button.refresh = التجديد
+
+button.moredetails = مزيد من التفاصيل
+
+button.install = تثبيت
+
+button.update = تحديث
+
+button.opensettings = إعدادات المفتوحة
+
+button.website = موقع
+
+button.connect = اتصال
+
+
+
+tooltip.newprofile = إنشاء الملف جديد
+
+tooltip.openfolder = استعراض لملف مجلد
+
+tooltip.openfile = فتح ملف
+
+tooltip.configureprofile = تكوين الملف
+
+tooltip.configurepixelmon = تكوين Pixelmon
+
+tooltip.play = اللعب
+
+tooltip.install = تثبيت
+
+tooltip.download = تحميل
+
+tooltip.mute = الموسيقى
+
+tooltip.openoutputdialog = هذا يحافظ على إخراج النص من ماين كرافت فتح حتى بعد أن خرجت ماين كرافت.
+
+tooltip.forcereinstall = هذا يفرض على قاذفة لإعادة تحميل للجميع مكتبة تبعيات في المرة القادمة التي لعب هذا الملف.
+
+tooltip.incompatible = غير متوافق
+
+tooltip.sharefacebook = المشاركة في فيسبوك
+
+tooltip.sharetwitter = المشاركة في تويتر
+
+
+
+menu.news = الأخبار
+
+menu.pixpacks = Pixpacks
+
+menu.website = Pixelmon الموقع
+
+menu.donate = تبرع
+
+menu.servers = ملقمات
+
+menu.settings = إعدادات
+
+
+
+install.createdirs = إنشاء الدلائل
+
+install.copypixelmon = نسخ جرة Pixelmon
+
+install.libraries = المكتبات تثبيت
+
+install.assets = الأصول تثبيت
+
+install.mods = تعديل وتثبيت
+
+install.extractjar = استخراج جرة:٪ ق
+
+install.download = تحميل٪ الصورة
+
+install.validate = التحقق من صحة٪ الصورة
+
+install.patch = الترقيع٪ الصورة
+
+
+
+configs.pixelmon.categories.general.title = الإعدادات العامة
+
+configs.pixelmon.categories.spawning.title = إعدادات التفريخ
+
+configs.pixelmon.categories.spawning.description = الإعدادات التي تتحكم في ما بوكيمون تفرخ وعدد تفرخ
+
+configs.pixelmon.categories.externalmoves.title = التحركات الخارجية
+
+configs.pixelmon.categories.externalmoves.description = تكوين طريقة التحركات الخارجية تعمل في Pixelmon.
+
+configs.pixelmon.categories.afkhandler.title = AFK معالج
+
+configs.pixelmon.categories.afkhandler.description = إعداد معالج AFK.
+
+
+
+configs.pixelmon.items.general.forceendedresult.title = قوة العضوية نتيجة المعركة
+
+configs.pixelmon.items.general.forceendedresult.description = ماذا سيحدث إذا كانت المعركة هي قوة انتهت من دون نتيجة مناسبة.
+
+configs.pixelmon.items.general.forceendedresult.values.0 = يتم تحديد الفائز بناء على عدد المتبقية بوكيمون (مع٪ HP بمثابة الشوط الفاصل).
+
+configs.pixelmon.items.general.forceendedresult.values.1 = يعتبر المعركة بالتعادل.
+
+configs.pixelmon.items.general.forceendedresult.values.2 = ويعتبر انتهت المعركة بشكل غير طبيعي.
+
+configs.pixelmon.items.general.trainerrarity.title = المدرب نادرة
+
+configs.pixelmon.items.general.trainerrarity.description = المعدل الذي المدربين سوف تفرخ في العالم (50 = الافتراضي، 0 = إيقاف)
+
+configs.pixelmon.items.spawning.gen1.title = البيضة الجيل 1 بوكيمون
+
+configs.pixelmon.items.spawning.gen1.description = مجموعات سواء الجيل 1 بوكيمون سيتم لدت أم لا (Pokedex # 1-151)
+
+configs.pixelmon.items.spawning.gen2.title = البيضة الجيل 2 بوكيمون
+
+configs.pixelmon.items.spawning.gen2.description = مجموعات سواء الجيل 2 بوكيمون سيتم لدت أم لا (Pokedex # 152-251)
+
+configs.pixelmon.items.spawning.gen3.title = البيضة الجيل 3 بوكيمون
+
+configs.pixelmon.items.spawning.gen3.description = مجموعات سواء الجيل 3 بوكيمون سيتم لدت أم لا (Pokedex # 252-386)
+
+configs.pixelmon.items.spawning.gen4.title = البيضة الجيل 4 بوكيمون
+
+configs.pixelmon.items.spawning.gen4.description = مجموعات سواء الجيل 4 بوكيمون سيتم لدت أم لا (Pokedex # 387-493)
+
+configs.pixelmon.items.spawning.gen5.title = البيضة الجيل 5 بوكيمون
+
+configs.pixelmon.items.spawning.gen5.description = مجموعات سواء الجيل 5 بوكيمون سيتم لدت أم لا (Pokedex # 494-649)
+
+configs.pixelmon.items.spawning.gen6.title = البيضة الجيل 6 بوكيمون
+
+configs.pixelmon.items.spawning.gen6.description = مجموعات سواء الجيل 6 بوكيمون سيتم لدت أم لا (Pokedex # 650-721)
+
+configs.pixelmon.items.spawning.dimensions.title = البيضة الأبعاد
+
+سوف configs.pixelmon.items.spawning.dimensions.description = مجموعات التي أبعاد بوكيمون تفرخ في (-1 = السفلى، 0 = Overworld، 1 = النهاية)
+
+configs.pixelmon.items.spawning.dimensions.values.-1 = السفلى
+
+configs.pixelmon.items.spawning.dimensions.values.0 = Overworld
+
+configs.pixelmon.items.spawning.dimensions.values.1 = نهاية
+
+configs.pixelmon.items.spawning.legendary.title = البيضة Legendaries
+
+configs.pixelmon.items.spawning.legendary.description = مجموعات سواء الأسطوري البوكيمون سوف تفرخ في العالم (مع رسالة تفرخ)
+
+configs.pixelmon.items.spawning.legendaryrate.title = معدل تفرخ الأسطوري
+
+configs.pixelmon.items.spawning.legendaryrate.description = مجموعات المعدل الذي تفرخ بوكيمون الأسطوري في العالم
+
+مكنت configs.pixelmon.items.externalmoves.active.title = التحركات الخارجية
+
+configs.pixelmon.items.externalmoves.active.description = السماح التحركات الخارجية لاستخدامها من قبل بوكيمون في العالم
+
+تمكين configs.pixelmon.items.afkhandler.active.title = AFK معالج
+
+configs.pixelmon.items.afkhandler.active.description = السماح لمنظمة العفو الدولية أن تتدخل لاعبين الخمول في معركة
+
+configs.pixelmon.items.afkhandler.activationtime.title = وقت التنشيط
+
+configs.pixelmon.items.afkhandler.activationtime.description = الوقت قبل معالج AFK سوف تتدخل لاعب الخمول
+
+
+
+# عفا عليها الزمن
+
+
+
+messagebox.invalidname = اسم ملف التعريف غير صالح! الرجاء اختيار واحد آخر.
+
+messagebox.existingdirectory = تم بالفعل استخدام الدليل! \ n الرجاء اختيار اسم آخر.
